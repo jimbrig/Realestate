@@ -97,6 +97,13 @@ Write-Host ""
 $loaded = 0
 $failed = 0
 
+# 0. National (US boundary)
+if (Load-Shapefile -ShapefilePath "$tigerDir\cb_2024_us_nation_5m.shp" -TableName "tiger_national" -GeoidField "GEOID") {
+    $loaded++
+} else {
+    $failed++
+}
+
 # 1. States
 if (Load-Shapefile -ShapefilePath "$tigerDir\tl_2024_us_state.shp" -TableName "tiger_states" -GeoidField "GEOID") {
     $loaded++
