@@ -137,6 +137,16 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2008-01-01,10580,"Albany-Schenectady-Troy, NY (Metropolitan Statistical Area)",52477717
 2009-01-01,10580,"Albany-Schenectady-Troy, NY (Metropolitan Statistical Area)",53495052
 2010-01-01,10580,"Albany-Schenectady-Troy, NY (Metropolitan Statistical Area)",53969868
+2001-01-01,10740,"Albuquerque, NM (Metropolitan Statistical Area)",31949682
+2002-01-01,10740,"Albuquerque, NM (Metropolitan Statistical Area)",32556088
+2003-01-01,10740,"Albuquerque, NM (Metropolitan Statistical Area)",35758151
+2004-01-01,10740,"Albuquerque, NM (Metropolitan Statistical Area)",41416431
+2005-01-01,10740,"Albuquerque, NM (Metropolitan Statistical Area)",41006651
+2006-01-01,10740,"Albuquerque, NM (Metropolitan Statistical Area)",41740379
+2007-01-01,10740,"Albuquerque, NM (Metropolitan Statistical Area)",41417919
+2008-01-01,10740,"Albuquerque, NM (Metropolitan Statistical Area)",40809673
+2009-01-01,10740,"Albuquerque, NM (Metropolitan Statistical Area)",42298283
+2010-01-01,10740,"Albuquerque, NM (Metropolitan Statistical Area)",41851011
 2011-01-01,10740,"Albuquerque, NM (Metropolitan Statistical Area)",41033001
 2012-01-01,10740,"Albuquerque, NM (Metropolitan Statistical Area)",40418820
 2013-01-01,10740,"Albuquerque, NM (Metropolitan Statistical Area)",39726620
@@ -150,16 +160,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,10740,"Albuquerque, NM (Metropolitan Statistical Area)",45653922
 2022-01-01,10740,"Albuquerque, NM (Metropolitan Statistical Area)",47447327
 2023-01-01,10740,"Albuquerque, NM (Metropolitan Statistical Area)",48602526
-2001-01-01,10740,"Albuquerque, NM (Metropolitan Statistical Area)",31949682
-2002-01-01,10740,"Albuquerque, NM (Metropolitan Statistical Area)",32556088
-2003-01-01,10740,"Albuquerque, NM (Metropolitan Statistical Area)",35758151
-2004-01-01,10740,"Albuquerque, NM (Metropolitan Statistical Area)",41416431
-2005-01-01,10740,"Albuquerque, NM (Metropolitan Statistical Area)",41006651
-2006-01-01,10740,"Albuquerque, NM (Metropolitan Statistical Area)",41740379
-2007-01-01,10740,"Albuquerque, NM (Metropolitan Statistical Area)",41417919
-2008-01-01,10740,"Albuquerque, NM (Metropolitan Statistical Area)",40809673
-2009-01-01,10740,"Albuquerque, NM (Metropolitan Statistical Area)",42298283
-2010-01-01,10740,"Albuquerque, NM (Metropolitan Statistical Area)",41851011
 2011-01-01,10780,"Alexandria, LA (Metropolitan Statistical Area)",6118976
 2012-01-01,10780,"Alexandria, LA (Metropolitan Statistical Area)",6141512
 2013-01-01,10780,"Alexandria, LA (Metropolitan Statistical Area)",6125289
@@ -827,6 +827,15 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2007-01-01,13780,"Binghamton, NY (Metropolitan Statistical Area)",9804184
 2008-01-01,13780,"Binghamton, NY (Metropolitan Statistical Area)",10446715
 2009-01-01,13780,"Binghamton, NY (Metropolitan Statistical Area)",10467964
+2001-01-01,13820,"Birmingham-Hoover, AL (Metropolitan Statistical Area)",49778366
+2002-01-01,13820,"Birmingham-Hoover, AL (Metropolitan Statistical Area)",51457491
+2003-01-01,13820,"Birmingham-Hoover, AL (Metropolitan Statistical Area)",52459279
+2004-01-01,13820,"Birmingham-Hoover, AL (Metropolitan Statistical Area)",55088112
+2005-01-01,13820,"Birmingham-Hoover, AL (Metropolitan Statistical Area)",56827258
+2006-01-01,13820,"Birmingham-Hoover, AL (Metropolitan Statistical Area)",56449297
+2007-01-01,13820,"Birmingham-Hoover, AL (Metropolitan Statistical Area)",57220247
+2008-01-01,13820,"Birmingham-Hoover, AL (Metropolitan Statistical Area)",57319244
+2009-01-01,13820,"Birmingham-Hoover, AL (Metropolitan Statistical Area)",54622275
 2010-01-01,13820,"Birmingham-Hoover, AL (Metropolitan Statistical Area)",55215871
 2011-01-01,13820,"Birmingham-Hoover, AL (Metropolitan Statistical Area)",56259365
 2012-01-01,13820,"Birmingham-Hoover, AL (Metropolitan Statistical Area)",57546946
@@ -841,15 +850,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,13820,"Birmingham-Hoover, AL (Metropolitan Statistical Area)",65544890
 2022-01-01,13820,"Birmingham-Hoover, AL (Metropolitan Statistical Area)",66668472
 2023-01-01,13820,"Birmingham-Hoover, AL (Metropolitan Statistical Area)",67728997
-2001-01-01,13820,"Birmingham-Hoover, AL (Metropolitan Statistical Area)",49778366
-2002-01-01,13820,"Birmingham-Hoover, AL (Metropolitan Statistical Area)",51457491
-2003-01-01,13820,"Birmingham-Hoover, AL (Metropolitan Statistical Area)",52459279
-2004-01-01,13820,"Birmingham-Hoover, AL (Metropolitan Statistical Area)",55088112
-2005-01-01,13820,"Birmingham-Hoover, AL (Metropolitan Statistical Area)",56827258
-2006-01-01,13820,"Birmingham-Hoover, AL (Metropolitan Statistical Area)",56449297
-2007-01-01,13820,"Birmingham-Hoover, AL (Metropolitan Statistical Area)",57220247
-2008-01-01,13820,"Birmingham-Hoover, AL (Metropolitan Statistical Area)",57319244
-2009-01-01,13820,"Birmingham-Hoover, AL (Metropolitan Statistical Area)",54622275
 2011-01-01,13900,"Bismarck, ND (Metropolitan Statistical Area)",6171095
 2012-01-01,13900,"Bismarck, ND (Metropolitan Statistical Area)",7024993
 2013-01-01,13900,"Bismarck, ND (Metropolitan Statistical Area)",7157026
@@ -942,6 +942,16 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2007-01-01,14020,"Bloomington, IN (Metropolitan Statistical Area)",6264263
 2008-01-01,14020,"Bloomington, IN (Metropolitan Statistical Area)",6274739
 2009-01-01,14020,"Bloomington, IN (Metropolitan Statistical Area)",6235885
+2001-01-01,14100,"Bloomsburg-Berwick, PA (Metropolitan Statistical Area)",3415504
+2002-01-01,14100,"Bloomsburg-Berwick, PA (Metropolitan Statistical Area)",3596930
+2003-01-01,14100,"Bloomsburg-Berwick, PA (Metropolitan Statistical Area)",3610691
+2004-01-01,14100,"Bloomsburg-Berwick, PA (Metropolitan Statistical Area)",3778495
+2005-01-01,14100,"Bloomsburg-Berwick, PA (Metropolitan Statistical Area)",3843532
+2006-01-01,14100,"Bloomsburg-Berwick, PA (Metropolitan Statistical Area)",4030123
+2007-01-01,14100,"Bloomsburg-Berwick, PA (Metropolitan Statistical Area)",4017632
+2008-01-01,14100,"Bloomsburg-Berwick, PA (Metropolitan Statistical Area)",4086191
+2009-01-01,14100,"Bloomsburg-Berwick, PA (Metropolitan Statistical Area)",4075714
+2010-01-01,14100,"Bloomsburg-Berwick, PA (Metropolitan Statistical Area)",4275092
 2011-01-01,14100,"Bloomsburg-Berwick, PA (Metropolitan Statistical Area)",4335246
 2012-01-01,14100,"Bloomsburg-Berwick, PA (Metropolitan Statistical Area)",4320047
 2013-01-01,14100,"Bloomsburg-Berwick, PA (Metropolitan Statistical Area)",4464177
@@ -955,16 +965,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,14100,"Bloomsburg-Berwick, PA (Metropolitan Statistical Area)",4467976
 2022-01-01,14100,"Bloomsburg-Berwick, PA (Metropolitan Statistical Area)",4635875
 2023-01-01,14100,"Bloomsburg-Berwick, PA (Metropolitan Statistical Area)",4680352
-2001-01-01,14100,"Bloomsburg-Berwick, PA (Metropolitan Statistical Area)",3415504
-2002-01-01,14100,"Bloomsburg-Berwick, PA (Metropolitan Statistical Area)",3596930
-2003-01-01,14100,"Bloomsburg-Berwick, PA (Metropolitan Statistical Area)",3610691
-2004-01-01,14100,"Bloomsburg-Berwick, PA (Metropolitan Statistical Area)",3778495
-2005-01-01,14100,"Bloomsburg-Berwick, PA (Metropolitan Statistical Area)",3843532
-2006-01-01,14100,"Bloomsburg-Berwick, PA (Metropolitan Statistical Area)",4030123
-2007-01-01,14100,"Bloomsburg-Berwick, PA (Metropolitan Statistical Area)",4017632
-2008-01-01,14100,"Bloomsburg-Berwick, PA (Metropolitan Statistical Area)",4086191
-2009-01-01,14100,"Bloomsburg-Berwick, PA (Metropolitan Statistical Area)",4075714
-2010-01-01,14100,"Bloomsburg-Berwick, PA (Metropolitan Statistical Area)",4275092
 2001-01-01,14260,"Boise City, ID (Metropolitan Statistical Area)",19699982
 2002-01-01,14260,"Boise City, ID (Metropolitan Statistical Area)",20274256
 2003-01-01,14260,"Boise City, ID (Metropolitan Statistical Area)",21646904
@@ -1080,6 +1080,15 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2008-01-01,14740,"Bremerton-Silverdale-Port Orchard, WA (Metropolitan Statistical Area)",11374355
 2009-01-01,14740,"Bremerton-Silverdale-Port Orchard, WA (Metropolitan Statistical Area)",11130117
 2010-01-01,14740,"Bremerton-Silverdale-Port Orchard, WA (Metropolitan Statistical Area)",11157802
+2012-01-01,14860,"Bridgeport-Stamford-Norwalk, CT (Metropolitan Statistical Area)",93325303
+2013-01-01,14860,"Bridgeport-Stamford-Norwalk, CT (Metropolitan Statistical Area)",90243234
+2014-01-01,14860,"Bridgeport-Stamford-Norwalk, CT (Metropolitan Statistical Area)",90936528
+2015-01-01,14860,"Bridgeport-Stamford-Norwalk, CT (Metropolitan Statistical Area)",91961269
+2016-01-01,14860,"Bridgeport-Stamford-Norwalk, CT (Metropolitan Statistical Area)",90009826
+2017-01-01,14860,"Bridgeport-Stamford-Norwalk, CT (Metropolitan Statistical Area)",91838477
+2018-01-01,14860,"Bridgeport-Stamford-Norwalk, CT (Metropolitan Statistical Area)",90874828
+2019-01-01,14860,"Bridgeport-Stamford-Norwalk, CT (Metropolitan Statistical Area)",89153575
+2020-01-01,14860,"Bridgeport-Stamford-Norwalk, CT (Metropolitan Statistical Area)",84666390
 2021-01-01,14860,"Bridgeport-Stamford-Norwalk, CT (Metropolitan Statistical Area)",88205453
 2022-01-01,14860,"Bridgeport-Stamford-Norwalk, CT (Metropolitan Statistical Area)",93195709
 2023-01-01,14860,"Bridgeport-Stamford-Norwalk, CT (Metropolitan Statistical Area)",96598373
@@ -1093,15 +1102,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2008-01-01,14860,"Bridgeport-Stamford-Norwalk, CT (Metropolitan Statistical Area)",101069735
 2009-01-01,14860,"Bridgeport-Stamford-Norwalk, CT (Metropolitan Statistical Area)",96945864
 2010-01-01,14860,"Bridgeport-Stamford-Norwalk, CT (Metropolitan Statistical Area)",95238311
-2012-01-01,14860,"Bridgeport-Stamford-Norwalk, CT (Metropolitan Statistical Area)",93325303
-2013-01-01,14860,"Bridgeport-Stamford-Norwalk, CT (Metropolitan Statistical Area)",90243234
-2014-01-01,14860,"Bridgeport-Stamford-Norwalk, CT (Metropolitan Statistical Area)",90936528
-2015-01-01,14860,"Bridgeport-Stamford-Norwalk, CT (Metropolitan Statistical Area)",91961269
-2016-01-01,14860,"Bridgeport-Stamford-Norwalk, CT (Metropolitan Statistical Area)",90009826
-2017-01-01,14860,"Bridgeport-Stamford-Norwalk, CT (Metropolitan Statistical Area)",91838477
-2018-01-01,14860,"Bridgeport-Stamford-Norwalk, CT (Metropolitan Statistical Area)",90874828
-2019-01-01,14860,"Bridgeport-Stamford-Norwalk, CT (Metropolitan Statistical Area)",89153575
-2020-01-01,14860,"Bridgeport-Stamford-Norwalk, CT (Metropolitan Statistical Area)",84666390
 2011-01-01,14860,"Bridgeport-Stamford-Norwalk, CT (Metropolitan Statistical Area)",90338399
 2010-01-01,15180,"Brownsville-Harlingen, TX (Metropolitan Statistical Area)",9927198
 2011-01-01,15180,"Brownsville-Harlingen, TX (Metropolitan Statistical Area)",10223794
@@ -1218,6 +1218,15 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,15540,"Burlington-South Burlington, VT (Metropolitan Statistical Area)",14510950
 2022-01-01,15540,"Burlington-South Burlington, VT (Metropolitan Statistical Area)",15054519
 2023-01-01,15540,"Burlington-South Burlington, VT (Metropolitan Statistical Area)",15344460
+2001-01-01,15680,"California-Lexington Park, MD (Metropolitan Statistical Area)",4342288
+2002-01-01,15680,"California-Lexington Park, MD (Metropolitan Statistical Area)",4633565
+2003-01-01,15680,"California-Lexington Park, MD (Metropolitan Statistical Area)",4904456
+2004-01-01,15680,"California-Lexington Park, MD (Metropolitan Statistical Area)",5118038
+2005-01-01,15680,"California-Lexington Park, MD (Metropolitan Statistical Area)",5265546
+2006-01-01,15680,"California-Lexington Park, MD (Metropolitan Statistical Area)",5438480
+2007-01-01,15680,"California-Lexington Park, MD (Metropolitan Statistical Area)",5620250
+2008-01-01,15680,"California-Lexington Park, MD (Metropolitan Statistical Area)",5715630
+2009-01-01,15680,"California-Lexington Park, MD (Metropolitan Statistical Area)",5879472
 2010-01-01,15680,"California-Lexington Park, MD (Metropolitan Statistical Area)",6359768
 2011-01-01,15680,"California-Lexington Park, MD (Metropolitan Statistical Area)",6690343
 2012-01-01,15680,"California-Lexington Park, MD (Metropolitan Statistical Area)",6712723
@@ -1232,15 +1241,10 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,15680,"California-Lexington Park, MD (Metropolitan Statistical Area)",7905014
 2022-01-01,15680,"California-Lexington Park, MD (Metropolitan Statistical Area)",7910394
 2023-01-01,15680,"California-Lexington Park, MD (Metropolitan Statistical Area)",8198447
-2001-01-01,15680,"California-Lexington Park, MD (Metropolitan Statistical Area)",4342288
-2002-01-01,15680,"California-Lexington Park, MD (Metropolitan Statistical Area)",4633565
-2003-01-01,15680,"California-Lexington Park, MD (Metropolitan Statistical Area)",4904456
-2004-01-01,15680,"California-Lexington Park, MD (Metropolitan Statistical Area)",5118038
-2005-01-01,15680,"California-Lexington Park, MD (Metropolitan Statistical Area)",5265546
-2006-01-01,15680,"California-Lexington Park, MD (Metropolitan Statistical Area)",5438480
-2007-01-01,15680,"California-Lexington Park, MD (Metropolitan Statistical Area)",5620250
-2008-01-01,15680,"California-Lexington Park, MD (Metropolitan Statistical Area)",5715630
-2009-01-01,15680,"California-Lexington Park, MD (Metropolitan Statistical Area)",5879472
+2007-01-01,15940,"Canton-Massillon, OH (Metropolitan Statistical Area)",15398331
+2008-01-01,15940,"Canton-Massillon, OH (Metropolitan Statistical Area)",15295497
+2009-01-01,15940,"Canton-Massillon, OH (Metropolitan Statistical Area)",14349844
+2010-01-01,15940,"Canton-Massillon, OH (Metropolitan Statistical Area)",15121959
 2011-01-01,15940,"Canton-Massillon, OH (Metropolitan Statistical Area)",16155804
 2012-01-01,15940,"Canton-Massillon, OH (Metropolitan Statistical Area)",15858495
 2013-01-01,15940,"Canton-Massillon, OH (Metropolitan Statistical Area)",17023754
@@ -1260,18 +1264,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2004-01-01,15940,"Canton-Massillon, OH (Metropolitan Statistical Area)",15853497
 2005-01-01,15940,"Canton-Massillon, OH (Metropolitan Statistical Area)",16129343
 2006-01-01,15940,"Canton-Massillon, OH (Metropolitan Statistical Area)",15567379
-2007-01-01,15940,"Canton-Massillon, OH (Metropolitan Statistical Area)",15398331
-2008-01-01,15940,"Canton-Massillon, OH (Metropolitan Statistical Area)",15295497
-2009-01-01,15940,"Canton-Massillon, OH (Metropolitan Statistical Area)",14349844
-2010-01-01,15940,"Canton-Massillon, OH (Metropolitan Statistical Area)",15121959
-2003-01-01,15980,"Cape Coral-Fort Myers, FL (Metropolitan Statistical Area)",22454444
-2004-01-01,15980,"Cape Coral-Fort Myers, FL (Metropolitan Statistical Area)",25534982
-2005-01-01,15980,"Cape Coral-Fort Myers, FL (Metropolitan Statistical Area)",27874663
-2006-01-01,15980,"Cape Coral-Fort Myers, FL (Metropolitan Statistical Area)",29948499
-2007-01-01,15980,"Cape Coral-Fort Myers, FL (Metropolitan Statistical Area)",30091017
-2008-01-01,15980,"Cape Coral-Fort Myers, FL (Metropolitan Statistical Area)",27752844
-2009-01-01,15980,"Cape Coral-Fort Myers, FL (Metropolitan Statistical Area)",25189572
-2010-01-01,15980,"Cape Coral-Fort Myers, FL (Metropolitan Statistical Area)",24914093
 2011-01-01,15980,"Cape Coral-Fort Myers, FL (Metropolitan Statistical Area)",24749142
 2012-01-01,15980,"Cape Coral-Fort Myers, FL (Metropolitan Statistical Area)",25297777
 2013-01-01,15980,"Cape Coral-Fort Myers, FL (Metropolitan Statistical Area)",25959728
@@ -1287,6 +1279,14 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2023-01-01,15980,"Cape Coral-Fort Myers, FL (Metropolitan Statistical Area)",40416750
 2001-01-01,15980,"Cape Coral-Fort Myers, FL (Metropolitan Statistical Area)",18766789
 2002-01-01,15980,"Cape Coral-Fort Myers, FL (Metropolitan Statistical Area)",20330567
+2003-01-01,15980,"Cape Coral-Fort Myers, FL (Metropolitan Statistical Area)",22454444
+2004-01-01,15980,"Cape Coral-Fort Myers, FL (Metropolitan Statistical Area)",25534982
+2005-01-01,15980,"Cape Coral-Fort Myers, FL (Metropolitan Statistical Area)",27874663
+2006-01-01,15980,"Cape Coral-Fort Myers, FL (Metropolitan Statistical Area)",29948499
+2007-01-01,15980,"Cape Coral-Fort Myers, FL (Metropolitan Statistical Area)",30091017
+2008-01-01,15980,"Cape Coral-Fort Myers, FL (Metropolitan Statistical Area)",27752844
+2009-01-01,15980,"Cape Coral-Fort Myers, FL (Metropolitan Statistical Area)",25189572
+2010-01-01,15980,"Cape Coral-Fort Myers, FL (Metropolitan Statistical Area)",24914093
 2011-01-01,16020,"Cape Girardeau, MO-IL (Metropolitan Statistical Area)",4109581
 2012-01-01,16020,"Cape Girardeau, MO-IL (Metropolitan Statistical Area)",4149193
 2013-01-01,16020,"Cape Girardeau, MO-IL (Metropolitan Statistical Area)",4189951
@@ -1563,6 +1563,15 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2008-01-01,16860,"Chattanooga, TN-GA (Metropolitan Statistical Area)",25217773
 2009-01-01,16860,"Chattanooga, TN-GA (Metropolitan Statistical Area)",24300879
 2010-01-01,16860,"Chattanooga, TN-GA (Metropolitan Statistical Area)",24880504
+2001-01-01,16940,"Cheyenne, WY (Metropolitan Statistical Area)",3767353
+2002-01-01,16940,"Cheyenne, WY (Metropolitan Statistical Area)",3911168
+2003-01-01,16940,"Cheyenne, WY (Metropolitan Statistical Area)",4121899
+2004-01-01,16940,"Cheyenne, WY (Metropolitan Statistical Area)",4333028
+2005-01-01,16940,"Cheyenne, WY (Metropolitan Statistical Area)",4419244
+2006-01-01,16940,"Cheyenne, WY (Metropolitan Statistical Area)",4653303
+2007-01-01,16940,"Cheyenne, WY (Metropolitan Statistical Area)",5191552
+2008-01-01,16940,"Cheyenne, WY (Metropolitan Statistical Area)",5696774
+2009-01-01,16940,"Cheyenne, WY (Metropolitan Statistical Area)",4920896
 2010-01-01,16940,"Cheyenne, WY (Metropolitan Statistical Area)",4985519
 2011-01-01,16940,"Cheyenne, WY (Metropolitan Statistical Area)",5176171
 2012-01-01,16940,"Cheyenne, WY (Metropolitan Statistical Area)",5312068
@@ -1577,15 +1586,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,16940,"Cheyenne, WY (Metropolitan Statistical Area)",6034707
 2022-01-01,16940,"Cheyenne, WY (Metropolitan Statistical Area)",6005376
 2023-01-01,16940,"Cheyenne, WY (Metropolitan Statistical Area)",6478574
-2001-01-01,16940,"Cheyenne, WY (Metropolitan Statistical Area)",3767353
-2002-01-01,16940,"Cheyenne, WY (Metropolitan Statistical Area)",3911168
-2003-01-01,16940,"Cheyenne, WY (Metropolitan Statistical Area)",4121899
-2004-01-01,16940,"Cheyenne, WY (Metropolitan Statistical Area)",4333028
-2005-01-01,16940,"Cheyenne, WY (Metropolitan Statistical Area)",4419244
-2006-01-01,16940,"Cheyenne, WY (Metropolitan Statistical Area)",4653303
-2007-01-01,16940,"Cheyenne, WY (Metropolitan Statistical Area)",5191552
-2008-01-01,16940,"Cheyenne, WY (Metropolitan Statistical Area)",5696774
-2009-01-01,16940,"Cheyenne, WY (Metropolitan Statistical Area)",4920896
 2010-01-01,16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",595377258
 2011-01-01,16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",606776758
 2012-01-01,16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",624494553
@@ -2023,6 +2023,16 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2008-01-01,19100,"Dallas-Fort Worth-Arlington, TX (Metropolitan Statistical Area)",379888574
 2009-01-01,19100,"Dallas-Fort Worth-Arlington, TX (Metropolitan Statistical Area)",368717622
 2010-01-01,19100,"Dallas-Fort Worth-Arlington, TX (Metropolitan Statistical Area)",377056747
+2001-01-01,19140,"Dalton, GA (Metropolitan Statistical Area)",5921261
+2002-01-01,19140,"Dalton, GA (Metropolitan Statistical Area)",6185362
+2003-01-01,19140,"Dalton, GA (Metropolitan Statistical Area)",6280080
+2004-01-01,19140,"Dalton, GA (Metropolitan Statistical Area)",7067721
+2005-01-01,19140,"Dalton, GA (Metropolitan Statistical Area)",7390944
+2006-01-01,19140,"Dalton, GA (Metropolitan Statistical Area)",7304930
+2007-01-01,19140,"Dalton, GA (Metropolitan Statistical Area)",7304060
+2008-01-01,19140,"Dalton, GA (Metropolitan Statistical Area)",6955253
+2009-01-01,19140,"Dalton, GA (Metropolitan Statistical Area)",6295644
+2010-01-01,19140,"Dalton, GA (Metropolitan Statistical Area)",6049846
 2011-01-01,19140,"Dalton, GA (Metropolitan Statistical Area)",6138230
 2012-01-01,19140,"Dalton, GA (Metropolitan Statistical Area)",6357545
 2013-01-01,19140,"Dalton, GA (Metropolitan Statistical Area)",6332818
@@ -2036,16 +2046,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,19140,"Dalton, GA (Metropolitan Statistical Area)",7170698
 2022-01-01,19140,"Dalton, GA (Metropolitan Statistical Area)",7447125
 2023-01-01,19140,"Dalton, GA (Metropolitan Statistical Area)",7468236
-2001-01-01,19140,"Dalton, GA (Metropolitan Statistical Area)",5921261
-2002-01-01,19140,"Dalton, GA (Metropolitan Statistical Area)",6185362
-2003-01-01,19140,"Dalton, GA (Metropolitan Statistical Area)",6280080
-2004-01-01,19140,"Dalton, GA (Metropolitan Statistical Area)",7067721
-2005-01-01,19140,"Dalton, GA (Metropolitan Statistical Area)",7390944
-2006-01-01,19140,"Dalton, GA (Metropolitan Statistical Area)",7304930
-2007-01-01,19140,"Dalton, GA (Metropolitan Statistical Area)",7304060
-2008-01-01,19140,"Dalton, GA (Metropolitan Statistical Area)",6955253
-2009-01-01,19140,"Dalton, GA (Metropolitan Statistical Area)",6295644
-2010-01-01,19140,"Dalton, GA (Metropolitan Statistical Area)",6049846
 2010-01-01,19180,"Danville, IL (Metropolitan Statistical Area)",3215235
 2011-01-01,19180,"Danville, IL (Metropolitan Statistical Area)",3258770
 2012-01-01,19180,"Danville, IL (Metropolitan Statistical Area)",3322680
@@ -2230,6 +2230,15 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2007-01-01,19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",159423318
 2008-01-01,19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",158853777
 2009-01-01,19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",153864345
+2001-01-01,19780,"Des Moines-West Des Moines, IA (Metropolitan Statistical Area)",30638089
+2002-01-01,19780,"Des Moines-West Des Moines, IA (Metropolitan Statistical Area)",30982273
+2003-01-01,19780,"Des Moines-West Des Moines, IA (Metropolitan Statistical Area)",33659933
+2004-01-01,19780,"Des Moines-West Des Moines, IA (Metropolitan Statistical Area)",36883423
+2005-01-01,19780,"Des Moines-West Des Moines, IA (Metropolitan Statistical Area)",39672988
+2006-01-01,19780,"Des Moines-West Des Moines, IA (Metropolitan Statistical Area)",39263493
+2007-01-01,19780,"Des Moines-West Des Moines, IA (Metropolitan Statistical Area)",43479294
+2008-01-01,19780,"Des Moines-West Des Moines, IA (Metropolitan Statistical Area)",39249189
+2009-01-01,19780,"Des Moines-West Des Moines, IA (Metropolitan Statistical Area)",38775485
 2010-01-01,19780,"Des Moines-West Des Moines, IA (Metropolitan Statistical Area)",39526817
 2011-01-01,19780,"Des Moines-West Des Moines, IA (Metropolitan Statistical Area)",39753542
 2012-01-01,19780,"Des Moines-West Des Moines, IA (Metropolitan Statistical Area)",42270802
@@ -2244,15 +2253,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,19780,"Des Moines-West Des Moines, IA (Metropolitan Statistical Area)",60715874
 2022-01-01,19780,"Des Moines-West Des Moines, IA (Metropolitan Statistical Area)",59834558
 2023-01-01,19780,"Des Moines-West Des Moines, IA (Metropolitan Statistical Area)",60439921
-2001-01-01,19780,"Des Moines-West Des Moines, IA (Metropolitan Statistical Area)",30638089
-2002-01-01,19780,"Des Moines-West Des Moines, IA (Metropolitan Statistical Area)",30982273
-2003-01-01,19780,"Des Moines-West Des Moines, IA (Metropolitan Statistical Area)",33659933
-2004-01-01,19780,"Des Moines-West Des Moines, IA (Metropolitan Statistical Area)",36883423
-2005-01-01,19780,"Des Moines-West Des Moines, IA (Metropolitan Statistical Area)",39672988
-2006-01-01,19780,"Des Moines-West Des Moines, IA (Metropolitan Statistical Area)",39263493
-2007-01-01,19780,"Des Moines-West Des Moines, IA (Metropolitan Statistical Area)",43479294
-2008-01-01,19780,"Des Moines-West Des Moines, IA (Metropolitan Statistical Area)",39249189
-2009-01-01,19780,"Des Moines-West Des Moines, IA (Metropolitan Statistical Area)",38775485
 2001-01-01,19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",235602858
 2002-01-01,19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",240796482
 2003-01-01,19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",247570645
@@ -2368,15 +2368,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2007-01-01,20260,"Duluth, MN-WI (Metropolitan Statistical Area)",13279290
 2008-01-01,20260,"Duluth, MN-WI (Metropolitan Statistical Area)",13688675
 2009-01-01,20260,"Duluth, MN-WI (Metropolitan Statistical Area)",12957238
-2001-01-01,20500,"Durham-Chapel Hill, NC (Metropolitan Statistical Area)",28804211
-2002-01-01,20500,"Durham-Chapel Hill, NC (Metropolitan Statistical Area)",30201383
-2003-01-01,20500,"Durham-Chapel Hill, NC (Metropolitan Statistical Area)",32012910
-2004-01-01,20500,"Durham-Chapel Hill, NC (Metropolitan Statistical Area)",32654238
-2005-01-01,20500,"Durham-Chapel Hill, NC (Metropolitan Statistical Area)",34913541
-2006-01-01,20500,"Durham-Chapel Hill, NC (Metropolitan Statistical Area)",42727162
-2007-01-01,20500,"Durham-Chapel Hill, NC (Metropolitan Statistical Area)",46088689
-2008-01-01,20500,"Durham-Chapel Hill, NC (Metropolitan Statistical Area)",47789005
-2009-01-01,20500,"Durham-Chapel Hill, NC (Metropolitan Statistical Area)",44318883
 2010-01-01,20500,"Durham-Chapel Hill, NC (Metropolitan Statistical Area)",48092806
 2011-01-01,20500,"Durham-Chapel Hill, NC (Metropolitan Statistical Area)",47239079
 2012-01-01,20500,"Durham-Chapel Hill, NC (Metropolitan Statistical Area)",48043292
@@ -2391,6 +2382,15 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,20500,"Durham-Chapel Hill, NC (Metropolitan Statistical Area)",55135346
 2022-01-01,20500,"Durham-Chapel Hill, NC (Metropolitan Statistical Area)",56996009
 2023-01-01,20500,"Durham-Chapel Hill, NC (Metropolitan Statistical Area)",59014927
+2001-01-01,20500,"Durham-Chapel Hill, NC (Metropolitan Statistical Area)",28804211
+2002-01-01,20500,"Durham-Chapel Hill, NC (Metropolitan Statistical Area)",30201383
+2003-01-01,20500,"Durham-Chapel Hill, NC (Metropolitan Statistical Area)",32012910
+2004-01-01,20500,"Durham-Chapel Hill, NC (Metropolitan Statistical Area)",32654238
+2005-01-01,20500,"Durham-Chapel Hill, NC (Metropolitan Statistical Area)",34913541
+2006-01-01,20500,"Durham-Chapel Hill, NC (Metropolitan Statistical Area)",42727162
+2007-01-01,20500,"Durham-Chapel Hill, NC (Metropolitan Statistical Area)",46088689
+2008-01-01,20500,"Durham-Chapel Hill, NC (Metropolitan Statistical Area)",47789005
+2009-01-01,20500,"Durham-Chapel Hill, NC (Metropolitan Statistical Area)",44318883
 2001-01-01,20700,"East Stroudsburg, PA (Metropolitan Statistical Area)",5097726
 2002-01-01,20700,"East Stroudsburg, PA (Metropolitan Statistical Area)",5267639
 2003-01-01,20700,"East Stroudsburg, PA (Metropolitan Statistical Area)",5383866
@@ -2414,6 +2414,15 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,20700,"East Stroudsburg, PA (Metropolitan Statistical Area)",7254850
 2022-01-01,20700,"East Stroudsburg, PA (Metropolitan Statistical Area)",7182444
 2023-01-01,20700,"East Stroudsburg, PA (Metropolitan Statistical Area)",7420773
+2001-01-01,20740,"Eau Claire, WI (Metropolitan Statistical Area)",5636680
+2002-01-01,20740,"Eau Claire, WI (Metropolitan Statistical Area)",5915449
+2003-01-01,20740,"Eau Claire, WI (Metropolitan Statistical Area)",6191610
+2004-01-01,20740,"Eau Claire, WI (Metropolitan Statistical Area)",6509800
+2005-01-01,20740,"Eau Claire, WI (Metropolitan Statistical Area)",6970625
+2006-01-01,20740,"Eau Claire, WI (Metropolitan Statistical Area)",7079608
+2007-01-01,20740,"Eau Claire, WI (Metropolitan Statistical Area)",7312374
+2008-01-01,20740,"Eau Claire, WI (Metropolitan Statistical Area)",7138258
+2009-01-01,20740,"Eau Claire, WI (Metropolitan Statistical Area)",7067548
 2010-01-01,20740,"Eau Claire, WI (Metropolitan Statistical Area)",7480739
 2011-01-01,20740,"Eau Claire, WI (Metropolitan Statistical Area)",7674900
 2012-01-01,20740,"Eau Claire, WI (Metropolitan Statistical Area)",7968348
@@ -2428,15 +2437,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,20740,"Eau Claire, WI (Metropolitan Statistical Area)",9126206
 2022-01-01,20740,"Eau Claire, WI (Metropolitan Statistical Area)",9296439
 2023-01-01,20740,"Eau Claire, WI (Metropolitan Statistical Area)",9433986
-2001-01-01,20740,"Eau Claire, WI (Metropolitan Statistical Area)",5636680
-2002-01-01,20740,"Eau Claire, WI (Metropolitan Statistical Area)",5915449
-2003-01-01,20740,"Eau Claire, WI (Metropolitan Statistical Area)",6191610
-2004-01-01,20740,"Eau Claire, WI (Metropolitan Statistical Area)",6509800
-2005-01-01,20740,"Eau Claire, WI (Metropolitan Statistical Area)",6970625
-2006-01-01,20740,"Eau Claire, WI (Metropolitan Statistical Area)",7079608
-2007-01-01,20740,"Eau Claire, WI (Metropolitan Statistical Area)",7312374
-2008-01-01,20740,"Eau Claire, WI (Metropolitan Statistical Area)",7138258
-2009-01-01,20740,"Eau Claire, WI (Metropolitan Statistical Area)",7067548
 2011-01-01,20940,"El Centro, CA (Metropolitan Statistical Area)",7039022
 2012-01-01,20940,"El Centro, CA (Metropolitan Statistical Area)",6645696
 2013-01-01,20940,"El Centro, CA (Metropolitan Statistical Area)",6988080
@@ -2483,12 +2483,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2007-01-01,21060,"Elizabethtown-Fort Knox, KY (Metropolitan Statistical Area)",5265452
 2008-01-01,21060,"Elizabethtown-Fort Knox, KY (Metropolitan Statistical Area)",5574726
 2009-01-01,21060,"Elizabethtown-Fort Knox, KY (Metropolitan Statistical Area)",5515255
-2001-01-01,21140,"Elkhart-Goshen, IN (Metropolitan Statistical Area)",8242652
-2002-01-01,21140,"Elkhart-Goshen, IN (Metropolitan Statistical Area)",8950685
-2003-01-01,21140,"Elkhart-Goshen, IN (Metropolitan Statistical Area)",9859685
-2004-01-01,21140,"Elkhart-Goshen, IN (Metropolitan Statistical Area)",10519849
-2005-01-01,21140,"Elkhart-Goshen, IN (Metropolitan Statistical Area)",11345226
-2006-01-01,21140,"Elkhart-Goshen, IN (Metropolitan Statistical Area)",12119110
 2010-01-01,21140,"Elkhart-Goshen, IN (Metropolitan Statistical Area)",10437631
 2011-01-01,21140,"Elkhart-Goshen, IN (Metropolitan Statistical Area)",10276136
 2012-01-01,21140,"Elkhart-Goshen, IN (Metropolitan Statistical Area)",10537086
@@ -2503,6 +2497,12 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,21140,"Elkhart-Goshen, IN (Metropolitan Statistical Area)",19322879
 2022-01-01,21140,"Elkhart-Goshen, IN (Metropolitan Statistical Area)",20150508
 2023-01-01,21140,"Elkhart-Goshen, IN (Metropolitan Statistical Area)",18282076
+2001-01-01,21140,"Elkhart-Goshen, IN (Metropolitan Statistical Area)",8242652
+2002-01-01,21140,"Elkhart-Goshen, IN (Metropolitan Statistical Area)",8950685
+2003-01-01,21140,"Elkhart-Goshen, IN (Metropolitan Statistical Area)",9859685
+2004-01-01,21140,"Elkhart-Goshen, IN (Metropolitan Statistical Area)",10519849
+2005-01-01,21140,"Elkhart-Goshen, IN (Metropolitan Statistical Area)",11345226
+2006-01-01,21140,"Elkhart-Goshen, IN (Metropolitan Statistical Area)",12119110
 2007-01-01,21140,"Elkhart-Goshen, IN (Metropolitan Statistical Area)",12195613
 2008-01-01,21140,"Elkhart-Goshen, IN (Metropolitan Statistical Area)",10614239
 2009-01-01,21140,"Elkhart-Goshen, IN (Metropolitan Statistical Area)",7815232
@@ -2529,6 +2529,9 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,21300,"Elmira, NY (Metropolitan Statistical Area)",3643263
 2022-01-01,21300,"Elmira, NY (Metropolitan Statistical Area)",3618249
 2023-01-01,21300,"Elmira, NY (Metropolitan Statistical Area)",3622588
+2001-01-01,21340,"El Paso, TX (Metropolitan Statistical Area)",21546208
+2002-01-01,21340,"El Paso, TX (Metropolitan Statistical Area)",22344375
+2003-01-01,21340,"El Paso, TX (Metropolitan Statistical Area)",22463779
 2004-01-01,21340,"El Paso, TX (Metropolitan Statistical Area)",23844191
 2005-01-01,21340,"El Paso, TX (Metropolitan Statistical Area)",24433210
 2006-01-01,21340,"El Paso, TX (Metropolitan Statistical Area)",25013893
@@ -2549,18 +2552,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,21340,"El Paso, TX (Metropolitan Statistical Area)",35262097
 2022-01-01,21340,"El Paso, TX (Metropolitan Statistical Area)",35929929
 2023-01-01,21340,"El Paso, TX (Metropolitan Statistical Area)",38112106
-2001-01-01,21340,"El Paso, TX (Metropolitan Statistical Area)",21546208
-2002-01-01,21340,"El Paso, TX (Metropolitan Statistical Area)",22344375
-2003-01-01,21340,"El Paso, TX (Metropolitan Statistical Area)",22463779
-2001-01-01,21420,"Enid, OK (Metropolitan Statistical Area)",1771703
-2002-01-01,21420,"Enid, OK (Metropolitan Statistical Area)",1796882
-2003-01-01,21420,"Enid, OK (Metropolitan Statistical Area)",1882984
-2004-01-01,21420,"Enid, OK (Metropolitan Statistical Area)",1933053
-2005-01-01,21420,"Enid, OK (Metropolitan Statistical Area)",1961842
-2006-01-01,21420,"Enid, OK (Metropolitan Statistical Area)",2121421
-2007-01-01,21420,"Enid, OK (Metropolitan Statistical Area)",2096693
-2008-01-01,21420,"Enid, OK (Metropolitan Statistical Area)",2290124
-2009-01-01,21420,"Enid, OK (Metropolitan Statistical Area)",2266582
 2010-01-01,21420,"Enid, OK (Metropolitan Statistical Area)",2316838
 2011-01-01,21420,"Enid, OK (Metropolitan Statistical Area)",2546516
 2012-01-01,21420,"Enid, OK (Metropolitan Statistical Area)",2829109
@@ -2575,6 +2566,24 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,21420,"Enid, OK (Metropolitan Statistical Area)",2950916
 2022-01-01,21420,"Enid, OK (Metropolitan Statistical Area)",2892301
 2023-01-01,21420,"Enid, OK (Metropolitan Statistical Area)",3088603
+2001-01-01,21420,"Enid, OK (Metropolitan Statistical Area)",1771703
+2002-01-01,21420,"Enid, OK (Metropolitan Statistical Area)",1796882
+2003-01-01,21420,"Enid, OK (Metropolitan Statistical Area)",1882984
+2004-01-01,21420,"Enid, OK (Metropolitan Statistical Area)",1933053
+2005-01-01,21420,"Enid, OK (Metropolitan Statistical Area)",1961842
+2006-01-01,21420,"Enid, OK (Metropolitan Statistical Area)",2121421
+2007-01-01,21420,"Enid, OK (Metropolitan Statistical Area)",2096693
+2008-01-01,21420,"Enid, OK (Metropolitan Statistical Area)",2290124
+2009-01-01,21420,"Enid, OK (Metropolitan Statistical Area)",2266582
+2001-01-01,21500,"Erie, PA (Metropolitan Statistical Area)",11145593
+2002-01-01,21500,"Erie, PA (Metropolitan Statistical Area)",11002734
+2003-01-01,21500,"Erie, PA (Metropolitan Statistical Area)",11124957
+2004-01-01,21500,"Erie, PA (Metropolitan Statistical Area)",11451712
+2005-01-01,21500,"Erie, PA (Metropolitan Statistical Area)",11969021
+2006-01-01,21500,"Erie, PA (Metropolitan Statistical Area)",12152810
+2007-01-01,21500,"Erie, PA (Metropolitan Statistical Area)",12578339
+2008-01-01,21500,"Erie, PA (Metropolitan Statistical Area)",13192175
+2009-01-01,21500,"Erie, PA (Metropolitan Statistical Area)",12022868
 2010-01-01,21500,"Erie, PA (Metropolitan Statistical Area)",12349756
 2011-01-01,21500,"Erie, PA (Metropolitan Statistical Area)",12878647
 2012-01-01,21500,"Erie, PA (Metropolitan Statistical Area)",12534074
@@ -2589,23 +2598,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,21500,"Erie, PA (Metropolitan Statistical Area)",11187341
 2022-01-01,21500,"Erie, PA (Metropolitan Statistical Area)",11253914
 2023-01-01,21500,"Erie, PA (Metropolitan Statistical Area)",11425284
-2001-01-01,21500,"Erie, PA (Metropolitan Statistical Area)",11145593
-2002-01-01,21500,"Erie, PA (Metropolitan Statistical Area)",11002734
-2003-01-01,21500,"Erie, PA (Metropolitan Statistical Area)",11124957
-2004-01-01,21500,"Erie, PA (Metropolitan Statistical Area)",11451712
-2005-01-01,21500,"Erie, PA (Metropolitan Statistical Area)",11969021
-2006-01-01,21500,"Erie, PA (Metropolitan Statistical Area)",12152810
-2007-01-01,21500,"Erie, PA (Metropolitan Statistical Area)",12578339
-2008-01-01,21500,"Erie, PA (Metropolitan Statistical Area)",13192175
-2009-01-01,21500,"Erie, PA (Metropolitan Statistical Area)",12022868
-2001-01-01,21660,"Eugene-Springfield, OR (Metropolitan Statistical Area)",12031268
-2002-01-01,21660,"Eugene-Springfield, OR (Metropolitan Statistical Area)",12266805
-2003-01-01,21660,"Eugene-Springfield, OR (Metropolitan Statistical Area)",12551258
-2004-01-01,21660,"Eugene-Springfield, OR (Metropolitan Statistical Area)",13154266
-2005-01-01,21660,"Eugene-Springfield, OR (Metropolitan Statistical Area)",13772300
-2006-01-01,21660,"Eugene-Springfield, OR (Metropolitan Statistical Area)",14213521
-2007-01-01,21660,"Eugene-Springfield, OR (Metropolitan Statistical Area)",14493875
-2008-01-01,21660,"Eugene-Springfield, OR (Metropolitan Statistical Area)",14356808
 2009-01-01,21660,"Eugene-Springfield, OR (Metropolitan Statistical Area)",13475117
 2010-01-01,21660,"Eugene-Springfield, OR (Metropolitan Statistical Area)",13659167
 2011-01-01,21660,"Eugene-Springfield, OR (Metropolitan Statistical Area)",13727765
@@ -2621,6 +2613,14 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,21660,"Eugene-Springfield, OR (Metropolitan Statistical Area)",17393440
 2022-01-01,21660,"Eugene-Springfield, OR (Metropolitan Statistical Area)",17722102
 2023-01-01,21660,"Eugene-Springfield, OR (Metropolitan Statistical Area)",18136369
+2001-01-01,21660,"Eugene-Springfield, OR (Metropolitan Statistical Area)",12031268
+2002-01-01,21660,"Eugene-Springfield, OR (Metropolitan Statistical Area)",12266805
+2003-01-01,21660,"Eugene-Springfield, OR (Metropolitan Statistical Area)",12551258
+2004-01-01,21660,"Eugene-Springfield, OR (Metropolitan Statistical Area)",13154266
+2005-01-01,21660,"Eugene-Springfield, OR (Metropolitan Statistical Area)",13772300
+2006-01-01,21660,"Eugene-Springfield, OR (Metropolitan Statistical Area)",14213521
+2007-01-01,21660,"Eugene-Springfield, OR (Metropolitan Statistical Area)",14493875
+2008-01-01,21660,"Eugene-Springfield, OR (Metropolitan Statistical Area)",14356808
 2001-01-01,21780,"Evansville, IN-KY (Metropolitan Statistical Area)",15630244
 2002-01-01,21780,"Evansville, IN-KY (Metropolitan Statistical Area)",16495979
 2003-01-01,21780,"Evansville, IN-KY (Metropolitan Statistical Area)",17186413
@@ -2644,6 +2644,16 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,21780,"Evansville, IN-KY (Metropolitan Statistical Area)",20447519
 2022-01-01,21780,"Evansville, IN-KY (Metropolitan Statistical Area)",20283908
 2023-01-01,21780,"Evansville, IN-KY (Metropolitan Statistical Area)",21197753
+2001-01-01,21820,"Fairbanks, AK (Metropolitan Statistical Area)",6194461
+2002-01-01,21820,"Fairbanks, AK (Metropolitan Statistical Area)",5405237
+2003-01-01,21820,"Fairbanks, AK (Metropolitan Statistical Area)",5485142
+2004-01-01,21820,"Fairbanks, AK (Metropolitan Statistical Area)",5533733
+2005-01-01,21820,"Fairbanks, AK (Metropolitan Statistical Area)",6053767
+2006-01-01,21820,"Fairbanks, AK (Metropolitan Statistical Area)",6280790
+2007-01-01,21820,"Fairbanks, AK (Metropolitan Statistical Area)",6387082
+2008-01-01,21820,"Fairbanks, AK (Metropolitan Statistical Area)",6910300
+2009-01-01,21820,"Fairbanks, AK (Metropolitan Statistical Area)",6775344
+2010-01-01,21820,"Fairbanks, AK (Metropolitan Statistical Area)",6888331
 2011-01-01,21820,"Fairbanks, AK (Metropolitan Statistical Area)",6377776
 2012-01-01,21820,"Fairbanks, AK (Metropolitan Statistical Area)",6048355
 2013-01-01,21820,"Fairbanks, AK (Metropolitan Statistical Area)",5983537
@@ -2657,25 +2667,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,21820,"Fairbanks, AK (Metropolitan Statistical Area)",5728811
 2022-01-01,21820,"Fairbanks, AK (Metropolitan Statistical Area)",5576437
 2023-01-01,21820,"Fairbanks, AK (Metropolitan Statistical Area)",5595570
-2001-01-01,21820,"Fairbanks, AK (Metropolitan Statistical Area)",6194461
-2002-01-01,21820,"Fairbanks, AK (Metropolitan Statistical Area)",5405237
-2003-01-01,21820,"Fairbanks, AK (Metropolitan Statistical Area)",5485142
-2004-01-01,21820,"Fairbanks, AK (Metropolitan Statistical Area)",5533733
-2005-01-01,21820,"Fairbanks, AK (Metropolitan Statistical Area)",6053767
-2006-01-01,21820,"Fairbanks, AK (Metropolitan Statistical Area)",6280790
-2007-01-01,21820,"Fairbanks, AK (Metropolitan Statistical Area)",6387082
-2008-01-01,21820,"Fairbanks, AK (Metropolitan Statistical Area)",6910300
-2009-01-01,21820,"Fairbanks, AK (Metropolitan Statistical Area)",6775344
-2010-01-01,21820,"Fairbanks, AK (Metropolitan Statistical Area)",6888331
-2001-01-01,22020,"Fargo, ND-MN (Metropolitan Statistical Area)",8308968
-2002-01-01,22020,"Fargo, ND-MN (Metropolitan Statistical Area)",8798207
-2003-01-01,22020,"Fargo, ND-MN (Metropolitan Statistical Area)",9290412
-2004-01-01,22020,"Fargo, ND-MN (Metropolitan Statistical Area)",9634313
-2005-01-01,22020,"Fargo, ND-MN (Metropolitan Statistical Area)",9942857
-2006-01-01,22020,"Fargo, ND-MN (Metropolitan Statistical Area)",10481161
-2007-01-01,22020,"Fargo, ND-MN (Metropolitan Statistical Area)",10933137
-2008-01-01,22020,"Fargo, ND-MN (Metropolitan Statistical Area)",11253725
-2009-01-01,22020,"Fargo, ND-MN (Metropolitan Statistical Area)",10968004
 2010-01-01,22020,"Fargo, ND-MN (Metropolitan Statistical Area)",11389855
 2011-01-01,22020,"Fargo, ND-MN (Metropolitan Statistical Area)",12035257
 2012-01-01,22020,"Fargo, ND-MN (Metropolitan Statistical Area)",13204961
@@ -2690,6 +2681,15 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,22020,"Fargo, ND-MN (Metropolitan Statistical Area)",15715270
 2022-01-01,22020,"Fargo, ND-MN (Metropolitan Statistical Area)",15774847
 2023-01-01,22020,"Fargo, ND-MN (Metropolitan Statistical Area)",16342815
+2001-01-01,22020,"Fargo, ND-MN (Metropolitan Statistical Area)",8308968
+2002-01-01,22020,"Fargo, ND-MN (Metropolitan Statistical Area)",8798207
+2003-01-01,22020,"Fargo, ND-MN (Metropolitan Statistical Area)",9290412
+2004-01-01,22020,"Fargo, ND-MN (Metropolitan Statistical Area)",9634313
+2005-01-01,22020,"Fargo, ND-MN (Metropolitan Statistical Area)",9942857
+2006-01-01,22020,"Fargo, ND-MN (Metropolitan Statistical Area)",10481161
+2007-01-01,22020,"Fargo, ND-MN (Metropolitan Statistical Area)",10933137
+2008-01-01,22020,"Fargo, ND-MN (Metropolitan Statistical Area)",11253725
+2009-01-01,22020,"Fargo, ND-MN (Metropolitan Statistical Area)",10968004
 2001-01-01,22140,"Farmington, NM (Metropolitan Statistical Area)",6268953
 2002-01-01,22140,"Farmington, NM (Metropolitan Statistical Area)",6286823
 2003-01-01,22140,"Farmington, NM (Metropolitan Statistical Area)",6195438
@@ -2713,6 +2713,15 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,22140,"Farmington, NM (Metropolitan Statistical Area)",5232665
 2022-01-01,22140,"Farmington, NM (Metropolitan Statistical Area)",5261890
 2023-01-01,22140,"Farmington, NM (Metropolitan Statistical Area)",5389548
+2001-01-01,22180,"Fayetteville, NC (Metropolitan Statistical Area)",15661457
+2002-01-01,22180,"Fayetteville, NC (Metropolitan Statistical Area)",16453812
+2003-01-01,22180,"Fayetteville, NC (Metropolitan Statistical Area)",16961612
+2004-01-01,22180,"Fayetteville, NC (Metropolitan Statistical Area)",17890326
+2005-01-01,22180,"Fayetteville, NC (Metropolitan Statistical Area)",19016897
+2006-01-01,22180,"Fayetteville, NC (Metropolitan Statistical Area)",19383446
+2007-01-01,22180,"Fayetteville, NC (Metropolitan Statistical Area)",19224454
+2008-01-01,22180,"Fayetteville, NC (Metropolitan Statistical Area)",19987095
+2009-01-01,22180,"Fayetteville, NC (Metropolitan Statistical Area)",20658705
 2010-01-01,22180,"Fayetteville, NC (Metropolitan Statistical Area)",21296458
 2011-01-01,22180,"Fayetteville, NC (Metropolitan Statistical Area)",21390898
 2012-01-01,22180,"Fayetteville, NC (Metropolitan Statistical Area)",20865214
@@ -2727,15 +2736,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,22180,"Fayetteville, NC (Metropolitan Statistical Area)",22169085
 2022-01-01,22180,"Fayetteville, NC (Metropolitan Statistical Area)",22234795
 2023-01-01,22180,"Fayetteville, NC (Metropolitan Statistical Area)",22590970
-2001-01-01,22180,"Fayetteville, NC (Metropolitan Statistical Area)",15661457
-2002-01-01,22180,"Fayetteville, NC (Metropolitan Statistical Area)",16453812
-2003-01-01,22180,"Fayetteville, NC (Metropolitan Statistical Area)",16961612
-2004-01-01,22180,"Fayetteville, NC (Metropolitan Statistical Area)",17890326
-2005-01-01,22180,"Fayetteville, NC (Metropolitan Statistical Area)",19016897
-2006-01-01,22180,"Fayetteville, NC (Metropolitan Statistical Area)",19383446
-2007-01-01,22180,"Fayetteville, NC (Metropolitan Statistical Area)",19224454
-2008-01-01,22180,"Fayetteville, NC (Metropolitan Statistical Area)",19987095
-2009-01-01,22180,"Fayetteville, NC (Metropolitan Statistical Area)",20658705
 2001-01-01,22220,"Fayetteville-Springdale-Rogers, AR (Metropolitan Statistical Area)",14390383
 2002-01-01,22220,"Fayetteville-Springdale-Rogers, AR (Metropolitan Statistical Area)",15475818
 2003-01-01,22220,"Fayetteville-Springdale-Rogers, AR (Metropolitan Statistical Area)",16456205
@@ -2874,16 +2874,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,22540,"Fond du Lac, WI (Metropolitan Statistical Area)",5166411
 2022-01-01,22540,"Fond du Lac, WI (Metropolitan Statistical Area)",5170001
 2023-01-01,22540,"Fond du Lac, WI (Metropolitan Statistical Area)",5021945
-2001-01-01,22660,"Fort Collins, CO (Metropolitan Statistical Area)",11094887
-2002-01-01,22660,"Fort Collins, CO (Metropolitan Statistical Area)",11866348
-2003-01-01,22660,"Fort Collins, CO (Metropolitan Statistical Area)",11971230
-2004-01-01,22660,"Fort Collins, CO (Metropolitan Statistical Area)",12241534
-2005-01-01,22660,"Fort Collins, CO (Metropolitan Statistical Area)",12590720
-2006-01-01,22660,"Fort Collins, CO (Metropolitan Statistical Area)",12865880
-2007-01-01,22660,"Fort Collins, CO (Metropolitan Statistical Area)",13316738
-2008-01-01,22660,"Fort Collins, CO (Metropolitan Statistical Area)",13601947
-2009-01-01,22660,"Fort Collins, CO (Metropolitan Statistical Area)",13397645
-2010-01-01,22660,"Fort Collins, CO (Metropolitan Statistical Area)",13801669
 2011-01-01,22660,"Fort Collins, CO (Metropolitan Statistical Area)",13863768
 2012-01-01,22660,"Fort Collins, CO (Metropolitan Statistical Area)",14400284
 2013-01-01,22660,"Fort Collins, CO (Metropolitan Statistical Area)",15071527
@@ -2897,6 +2887,16 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,22660,"Fort Collins, CO (Metropolitan Statistical Area)",21332235
 2022-01-01,22660,"Fort Collins, CO (Metropolitan Statistical Area)",21728125
 2023-01-01,22660,"Fort Collins, CO (Metropolitan Statistical Area)",22016467
+2001-01-01,22660,"Fort Collins, CO (Metropolitan Statistical Area)",11094887
+2002-01-01,22660,"Fort Collins, CO (Metropolitan Statistical Area)",11866348
+2003-01-01,22660,"Fort Collins, CO (Metropolitan Statistical Area)",11971230
+2004-01-01,22660,"Fort Collins, CO (Metropolitan Statistical Area)",12241534
+2005-01-01,22660,"Fort Collins, CO (Metropolitan Statistical Area)",12590720
+2006-01-01,22660,"Fort Collins, CO (Metropolitan Statistical Area)",12865880
+2007-01-01,22660,"Fort Collins, CO (Metropolitan Statistical Area)",13316738
+2008-01-01,22660,"Fort Collins, CO (Metropolitan Statistical Area)",13601947
+2009-01-01,22660,"Fort Collins, CO (Metropolitan Statistical Area)",13397645
+2010-01-01,22660,"Fort Collins, CO (Metropolitan Statistical Area)",13801669
 2001-01-01,22900,"Fort Smith, AR-OK (Metropolitan Statistical Area)",8467778
 2002-01-01,22900,"Fort Smith, AR-OK (Metropolitan Statistical Area)",8680483
 2003-01-01,22900,"Fort Smith, AR-OK (Metropolitan Statistical Area)",9121093
@@ -3012,6 +3012,7 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,23540,"Gainesville, FL (Metropolitan Statistical Area)",16415475
 2022-01-01,23540,"Gainesville, FL (Metropolitan Statistical Area)",16965502
 2023-01-01,23540,"Gainesville, FL (Metropolitan Statistical Area)",17724526
+2011-01-01,23580,"Gainesville, GA (Metropolitan Statistical Area)",8302211
 2010-01-01,23580,"Gainesville, GA (Metropolitan Statistical Area)",7684680
 2009-01-01,23580,"Gainesville, GA (Metropolitan Statistical Area)",7521629
 2008-01-01,23580,"Gainesville, GA (Metropolitan Statistical Area)",7960700
@@ -3034,7 +3035,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2014-01-01,23580,"Gainesville, GA (Metropolitan Statistical Area)",8983297
 2013-01-01,23580,"Gainesville, GA (Metropolitan Statistical Area)",8475751
 2012-01-01,23580,"Gainesville, GA (Metropolitan Statistical Area)",8241966
-2011-01-01,23580,"Gainesville, GA (Metropolitan Statistical Area)",8302211
 2010-01-01,23900,"Gettysburg, PA (Metropolitan Statistical Area)",3492310
 2011-01-01,23900,"Gettysburg, PA (Metropolitan Statistical Area)",3560178
 2012-01-01,23900,"Gettysburg, PA (Metropolitan Statistical Area)",3661621
@@ -3058,7 +3058,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2007-01-01,23900,"Gettysburg, PA (Metropolitan Statistical Area)",3396711
 2008-01-01,23900,"Gettysburg, PA (Metropolitan Statistical Area)",3481667
 2009-01-01,23900,"Gettysburg, PA (Metropolitan Statistical Area)",3540362
-2011-01-01,24020,"Glens Falls, NY (Metropolitan Statistical Area)",5813406
 2010-01-01,24020,"Glens Falls, NY (Metropolitan Statistical Area)",5908876
 2009-01-01,24020,"Glens Falls, NY (Metropolitan Statistical Area)",5817304
 2008-01-01,24020,"Glens Falls, NY (Metropolitan Statistical Area)",5537458
@@ -3081,6 +3080,7 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2014-01-01,24020,"Glens Falls, NY (Metropolitan Statistical Area)",5933977
 2013-01-01,24020,"Glens Falls, NY (Metropolitan Statistical Area)",5890236
 2012-01-01,24020,"Glens Falls, NY (Metropolitan Statistical Area)",5908075
+2011-01-01,24020,"Glens Falls, NY (Metropolitan Statistical Area)",5813406
 2010-01-01,24140,"Goldsboro, NC (Metropolitan Statistical Area)",4892850
 2011-01-01,24140,"Goldsboro, NC (Metropolitan Statistical Area)",4694316
 2012-01-01,24140,"Goldsboro, NC (Metropolitan Statistical Area)",4715040
@@ -3196,6 +3196,15 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,24340,"Grand Rapids-Kentwood, MI (Metropolitan Statistical Area)",64204641
 2022-01-01,24340,"Grand Rapids-Kentwood, MI (Metropolitan Statistical Area)",65462466
 2023-01-01,24340,"Grand Rapids-Kentwood, MI (Metropolitan Statistical Area)",66215291
+2001-01-01,24420,"Grants Pass, OR (Metropolitan Statistical Area)",1889705
+2002-01-01,24420,"Grants Pass, OR (Metropolitan Statistical Area)",1984797
+2003-01-01,24420,"Grants Pass, OR (Metropolitan Statistical Area)",2086294
+2004-01-01,24420,"Grants Pass, OR (Metropolitan Statistical Area)",2229155
+2005-01-01,24420,"Grants Pass, OR (Metropolitan Statistical Area)",2323693
+2006-01-01,24420,"Grants Pass, OR (Metropolitan Statistical Area)",2348744
+2007-01-01,24420,"Grants Pass, OR (Metropolitan Statistical Area)",2339082
+2008-01-01,24420,"Grants Pass, OR (Metropolitan Statistical Area)",2256917
+2009-01-01,24420,"Grants Pass, OR (Metropolitan Statistical Area)",2197044
 2010-01-01,24420,"Grants Pass, OR (Metropolitan Statistical Area)",2195188
 2011-01-01,24420,"Grants Pass, OR (Metropolitan Statistical Area)",2200709
 2012-01-01,24420,"Grants Pass, OR (Metropolitan Statistical Area)",2220716
@@ -3210,15 +3219,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,24420,"Grants Pass, OR (Metropolitan Statistical Area)",3062153
 2022-01-01,24420,"Grants Pass, OR (Metropolitan Statistical Area)",2950786
 2023-01-01,24420,"Grants Pass, OR (Metropolitan Statistical Area)",3094718
-2001-01-01,24420,"Grants Pass, OR (Metropolitan Statistical Area)",1889705
-2002-01-01,24420,"Grants Pass, OR (Metropolitan Statistical Area)",1984797
-2003-01-01,24420,"Grants Pass, OR (Metropolitan Statistical Area)",2086294
-2004-01-01,24420,"Grants Pass, OR (Metropolitan Statistical Area)",2229155
-2005-01-01,24420,"Grants Pass, OR (Metropolitan Statistical Area)",2323693
-2006-01-01,24420,"Grants Pass, OR (Metropolitan Statistical Area)",2348744
-2007-01-01,24420,"Grants Pass, OR (Metropolitan Statistical Area)",2339082
-2008-01-01,24420,"Grants Pass, OR (Metropolitan Statistical Area)",2256917
-2009-01-01,24420,"Grants Pass, OR (Metropolitan Statistical Area)",2197044
 2010-01-01,24500,"Great Falls, MT (Metropolitan Statistical Area)",3483756
 2011-01-01,24500,"Great Falls, MT (Metropolitan Statistical Area)",3513148
 2012-01-01,24500,"Great Falls, MT (Metropolitan Statistical Area)",3532650
@@ -3518,6 +3518,15 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,25540,"Hartford-East Hartford-Middletown, CT (Metropolitan Statistical Area)",97642124
 2022-01-01,25540,"Hartford-East Hartford-Middletown, CT (Metropolitan Statistical Area)",100472968
 2023-01-01,25540,"Hartford-East Hartford-Middletown, CT (Metropolitan Statistical Area)",102764650
+2001-01-01,25620,"Hattiesburg, MS (Metropolitan Statistical Area)",4732355
+2002-01-01,25620,"Hattiesburg, MS (Metropolitan Statistical Area)",4896100
+2003-01-01,25620,"Hattiesburg, MS (Metropolitan Statistical Area)",5117543
+2004-01-01,25620,"Hattiesburg, MS (Metropolitan Statistical Area)",5376787
+2005-01-01,25620,"Hattiesburg, MS (Metropolitan Statistical Area)",5584761
+2006-01-01,25620,"Hattiesburg, MS (Metropolitan Statistical Area)",5907392
+2007-01-01,25620,"Hattiesburg, MS (Metropolitan Statistical Area)",5752407
+2008-01-01,25620,"Hattiesburg, MS (Metropolitan Statistical Area)",5935889
+2009-01-01,25620,"Hattiesburg, MS (Metropolitan Statistical Area)",5864050
 2010-01-01,25620,"Hattiesburg, MS (Metropolitan Statistical Area)",6055901
 2011-01-01,25620,"Hattiesburg, MS (Metropolitan Statistical Area)",6009895
 2012-01-01,25620,"Hattiesburg, MS (Metropolitan Statistical Area)",6124433
@@ -3532,15 +3541,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,25620,"Hattiesburg, MS (Metropolitan Statistical Area)",6564082
 2022-01-01,25620,"Hattiesburg, MS (Metropolitan Statistical Area)",6671826
 2023-01-01,25620,"Hattiesburg, MS (Metropolitan Statistical Area)",6913181
-2001-01-01,25620,"Hattiesburg, MS (Metropolitan Statistical Area)",4732355
-2002-01-01,25620,"Hattiesburg, MS (Metropolitan Statistical Area)",4896100
-2003-01-01,25620,"Hattiesburg, MS (Metropolitan Statistical Area)",5117543
-2004-01-01,25620,"Hattiesburg, MS (Metropolitan Statistical Area)",5376787
-2005-01-01,25620,"Hattiesburg, MS (Metropolitan Statistical Area)",5584761
-2006-01-01,25620,"Hattiesburg, MS (Metropolitan Statistical Area)",5907392
-2007-01-01,25620,"Hattiesburg, MS (Metropolitan Statistical Area)",5752407
-2008-01-01,25620,"Hattiesburg, MS (Metropolitan Statistical Area)",5935889
-2009-01-01,25620,"Hattiesburg, MS (Metropolitan Statistical Area)",5864050
 2010-01-01,25860,"Hickory-Lenoir-Morganton, NC (Metropolitan Statistical Area)",14134408
 2011-01-01,25860,"Hickory-Lenoir-Morganton, NC (Metropolitan Statistical Area)",14064009
 2012-01-01,25860,"Hickory-Lenoir-Morganton, NC (Metropolitan Statistical Area)",13630925
@@ -3863,6 +3863,15 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2007-01-01,27100,"Jackson, MI (Metropolitan Statistical Area)",5695314
 2008-01-01,27100,"Jackson, MI (Metropolitan Statistical Area)",5528488
 2009-01-01,27100,"Jackson, MI (Metropolitan Statistical Area)",5044064
+2001-01-01,27140,"Jackson, MS (Metropolitan Statistical Area)",22798249
+2002-01-01,27140,"Jackson, MS (Metropolitan Statistical Area)",23254413
+2003-01-01,27140,"Jackson, MS (Metropolitan Statistical Area)",24276443
+2004-01-01,27140,"Jackson, MS (Metropolitan Statistical Area)",25153817
+2005-01-01,27140,"Jackson, MS (Metropolitan Statistical Area)",25751916
+2006-01-01,27140,"Jackson, MS (Metropolitan Statistical Area)",26086684
+2007-01-01,27140,"Jackson, MS (Metropolitan Statistical Area)",25322429
+2008-01-01,27140,"Jackson, MS (Metropolitan Statistical Area)",25906649
+2009-01-01,27140,"Jackson, MS (Metropolitan Statistical Area)",25108114
 2010-01-01,27140,"Jackson, MS (Metropolitan Statistical Area)",25821275
 2011-01-01,27140,"Jackson, MS (Metropolitan Statistical Area)",26268046
 2012-01-01,27140,"Jackson, MS (Metropolitan Statistical Area)",26521192
@@ -3877,15 +3886,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,27140,"Jackson, MS (Metropolitan Statistical Area)",28798742
 2022-01-01,27140,"Jackson, MS (Metropolitan Statistical Area)",29359243
 2023-01-01,27140,"Jackson, MS (Metropolitan Statistical Area)",29957357
-2001-01-01,27140,"Jackson, MS (Metropolitan Statistical Area)",22798249
-2002-01-01,27140,"Jackson, MS (Metropolitan Statistical Area)",23254413
-2003-01-01,27140,"Jackson, MS (Metropolitan Statistical Area)",24276443
-2004-01-01,27140,"Jackson, MS (Metropolitan Statistical Area)",25153817
-2005-01-01,27140,"Jackson, MS (Metropolitan Statistical Area)",25751916
-2006-01-01,27140,"Jackson, MS (Metropolitan Statistical Area)",26086684
-2007-01-01,27140,"Jackson, MS (Metropolitan Statistical Area)",25322429
-2008-01-01,27140,"Jackson, MS (Metropolitan Statistical Area)",25906649
-2009-01-01,27140,"Jackson, MS (Metropolitan Statistical Area)",25108114
 2001-01-01,27180,"Jackson, TN (Metropolitan Statistical Area)",6841419
 2002-01-01,27180,"Jackson, TN (Metropolitan Statistical Area)",6791718
 2003-01-01,27180,"Jackson, TN (Metropolitan Statistical Area)",6975742
@@ -3909,6 +3909,15 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,27180,"Jackson, TN (Metropolitan Statistical Area)",8953005
 2022-01-01,27180,"Jackson, TN (Metropolitan Statistical Area)",8788317
 2023-01-01,27180,"Jackson, TN (Metropolitan Statistical Area)",8998352
+2001-01-01,27260,"Jacksonville, FL (Metropolitan Statistical Area)",58079923
+2002-01-01,27260,"Jacksonville, FL (Metropolitan Statistical Area)",59886798
+2003-01-01,27260,"Jacksonville, FL (Metropolitan Statistical Area)",62881376
+2004-01-01,27260,"Jacksonville, FL (Metropolitan Statistical Area)",66080370
+2005-01-01,27260,"Jacksonville, FL (Metropolitan Statistical Area)",68909440
+2006-01-01,27260,"Jacksonville, FL (Metropolitan Statistical Area)",71293321
+2007-01-01,27260,"Jacksonville, FL (Metropolitan Statistical Area)",72771483
+2008-01-01,27260,"Jacksonville, FL (Metropolitan Statistical Area)",70471996
+2009-01-01,27260,"Jacksonville, FL (Metropolitan Statistical Area)",66978674
 2010-01-01,27260,"Jacksonville, FL (Metropolitan Statistical Area)",66967562
 2011-01-01,27260,"Jacksonville, FL (Metropolitan Statistical Area)",66478696
 2012-01-01,27260,"Jacksonville, FL (Metropolitan Statistical Area)",67169932
@@ -3923,15 +3932,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,27260,"Jacksonville, FL (Metropolitan Statistical Area)",94437627
 2022-01-01,27260,"Jacksonville, FL (Metropolitan Statistical Area)",100377422
 2023-01-01,27260,"Jacksonville, FL (Metropolitan Statistical Area)",104720125
-2001-01-01,27260,"Jacksonville, FL (Metropolitan Statistical Area)",58079923
-2002-01-01,27260,"Jacksonville, FL (Metropolitan Statistical Area)",59886798
-2003-01-01,27260,"Jacksonville, FL (Metropolitan Statistical Area)",62881376
-2004-01-01,27260,"Jacksonville, FL (Metropolitan Statistical Area)",66080370
-2005-01-01,27260,"Jacksonville, FL (Metropolitan Statistical Area)",68909440
-2006-01-01,27260,"Jacksonville, FL (Metropolitan Statistical Area)",71293321
-2007-01-01,27260,"Jacksonville, FL (Metropolitan Statistical Area)",72771483
-2008-01-01,27260,"Jacksonville, FL (Metropolitan Statistical Area)",70471996
-2009-01-01,27260,"Jacksonville, FL (Metropolitan Statistical Area)",66978674
 2010-01-01,27340,"Jacksonville, NC (Metropolitan Statistical Area)",9138668
 2011-01-01,27340,"Jacksonville, NC (Metropolitan Statistical Area)",9265542
 2012-01-01,27340,"Jacksonville, NC (Metropolitan Statistical Area)",8955659
@@ -3978,15 +3978,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,27500,"Janesville-Beloit, WI (Metropolitan Statistical Area)",7691478
 2022-01-01,27500,"Janesville-Beloit, WI (Metropolitan Statistical Area)",7946455
 2023-01-01,27500,"Janesville-Beloit, WI (Metropolitan Statistical Area)",8380111
-2001-01-01,27620,"Jefferson City, MO (Metropolitan Statistical Area)",6259002
-2002-01-01,27620,"Jefferson City, MO (Metropolitan Statistical Area)",6285226
-2003-01-01,27620,"Jefferson City, MO (Metropolitan Statistical Area)",6454336
-2004-01-01,27620,"Jefferson City, MO (Metropolitan Statistical Area)",6705114
-2005-01-01,27620,"Jefferson City, MO (Metropolitan Statistical Area)",6812683
-2006-01-01,27620,"Jefferson City, MO (Metropolitan Statistical Area)",6877179
-2007-01-01,27620,"Jefferson City, MO (Metropolitan Statistical Area)",6865026
-2008-01-01,27620,"Jefferson City, MO (Metropolitan Statistical Area)",7148278
-2009-01-01,27620,"Jefferson City, MO (Metropolitan Statistical Area)",7023966
 2010-01-01,27620,"Jefferson City, MO (Metropolitan Statistical Area)",7197946
 2011-01-01,27620,"Jefferson City, MO (Metropolitan Statistical Area)",7200739
 2012-01-01,27620,"Jefferson City, MO (Metropolitan Statistical Area)",7218892
@@ -4001,6 +3992,24 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,27620,"Jefferson City, MO (Metropolitan Statistical Area)",7779893
 2022-01-01,27620,"Jefferson City, MO (Metropolitan Statistical Area)",8217043
 2023-01-01,27620,"Jefferson City, MO (Metropolitan Statistical Area)",8569734
+2001-01-01,27620,"Jefferson City, MO (Metropolitan Statistical Area)",6259002
+2002-01-01,27620,"Jefferson City, MO (Metropolitan Statistical Area)",6285226
+2003-01-01,27620,"Jefferson City, MO (Metropolitan Statistical Area)",6454336
+2004-01-01,27620,"Jefferson City, MO (Metropolitan Statistical Area)",6705114
+2005-01-01,27620,"Jefferson City, MO (Metropolitan Statistical Area)",6812683
+2006-01-01,27620,"Jefferson City, MO (Metropolitan Statistical Area)",6877179
+2007-01-01,27620,"Jefferson City, MO (Metropolitan Statistical Area)",6865026
+2008-01-01,27620,"Jefferson City, MO (Metropolitan Statistical Area)",7148278
+2009-01-01,27620,"Jefferson City, MO (Metropolitan Statistical Area)",7023966
+2001-01-01,27740,"Johnson City, TN (Metropolitan Statistical Area)",5652357
+2002-01-01,27740,"Johnson City, TN (Metropolitan Statistical Area)",5783201
+2003-01-01,27740,"Johnson City, TN (Metropolitan Statistical Area)",6076047
+2004-01-01,27740,"Johnson City, TN (Metropolitan Statistical Area)",6547006
+2005-01-01,27740,"Johnson City, TN (Metropolitan Statistical Area)",6718834
+2006-01-01,27740,"Johnson City, TN (Metropolitan Statistical Area)",6826978
+2007-01-01,27740,"Johnson City, TN (Metropolitan Statistical Area)",6937209
+2008-01-01,27740,"Johnson City, TN (Metropolitan Statistical Area)",7186467
+2009-01-01,27740,"Johnson City, TN (Metropolitan Statistical Area)",6918782
 2010-01-01,27740,"Johnson City, TN (Metropolitan Statistical Area)",6782998
 2011-01-01,27740,"Johnson City, TN (Metropolitan Statistical Area)",7034767
 2012-01-01,27740,"Johnson City, TN (Metropolitan Statistical Area)",7151945
@@ -4015,15 +4024,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,27740,"Johnson City, TN (Metropolitan Statistical Area)",8327963
 2022-01-01,27740,"Johnson City, TN (Metropolitan Statistical Area)",8291867
 2023-01-01,27740,"Johnson City, TN (Metropolitan Statistical Area)",8636505
-2001-01-01,27740,"Johnson City, TN (Metropolitan Statistical Area)",5652357
-2002-01-01,27740,"Johnson City, TN (Metropolitan Statistical Area)",5783201
-2003-01-01,27740,"Johnson City, TN (Metropolitan Statistical Area)",6076047
-2004-01-01,27740,"Johnson City, TN (Metropolitan Statistical Area)",6547006
-2005-01-01,27740,"Johnson City, TN (Metropolitan Statistical Area)",6718834
-2006-01-01,27740,"Johnson City, TN (Metropolitan Statistical Area)",6826978
-2007-01-01,27740,"Johnson City, TN (Metropolitan Statistical Area)",6937209
-2008-01-01,27740,"Johnson City, TN (Metropolitan Statistical Area)",7186467
-2009-01-01,27740,"Johnson City, TN (Metropolitan Statistical Area)",6918782
 2010-01-01,27780,"Johnstown, PA (Metropolitan Statistical Area)",5033248
 2011-01-01,27780,"Johnstown, PA (Metropolitan Statistical Area)",5047270
 2012-01-01,27780,"Johnstown, PA (Metropolitan Statistical Area)",5006208
@@ -4185,6 +4185,14 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2003-01-01,28140,"Kansas City, MO-KS (Metropolitan Statistical Area)",101877676
 2002-01-01,28140,"Kansas City, MO-KS (Metropolitan Statistical Area)",99780944
 2001-01-01,28140,"Kansas City, MO-KS (Metropolitan Statistical Area)",97099729
+2001-01-01,28420,"Kennewick-Richland, WA (Metropolitan Statistical Area)",9504518
+2002-01-01,28420,"Kennewick-Richland, WA (Metropolitan Statistical Area)",10180896
+2003-01-01,28420,"Kennewick-Richland, WA (Metropolitan Statistical Area)",10261701
+2004-01-01,28420,"Kennewick-Richland, WA (Metropolitan Statistical Area)",10498214
+2005-01-01,28420,"Kennewick-Richland, WA (Metropolitan Statistical Area)",11124149
+2006-01-01,28420,"Kennewick-Richland, WA (Metropolitan Statistical Area)",11485738
+2007-01-01,28420,"Kennewick-Richland, WA (Metropolitan Statistical Area)",11610410
+2008-01-01,28420,"Kennewick-Richland, WA (Metropolitan Statistical Area)",11873942
 2009-01-01,28420,"Kennewick-Richland, WA (Metropolitan Statistical Area)",12442325
 2010-01-01,28420,"Kennewick-Richland, WA (Metropolitan Statistical Area)",13772401
 2011-01-01,28420,"Kennewick-Richland, WA (Metropolitan Statistical Area)",13578931
@@ -4200,14 +4208,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,28420,"Kennewick-Richland, WA (Metropolitan Statistical Area)",16321008
 2022-01-01,28420,"Kennewick-Richland, WA (Metropolitan Statistical Area)",16284968
 2023-01-01,28420,"Kennewick-Richland, WA (Metropolitan Statistical Area)",16679184
-2001-01-01,28420,"Kennewick-Richland, WA (Metropolitan Statistical Area)",9504518
-2002-01-01,28420,"Kennewick-Richland, WA (Metropolitan Statistical Area)",10180896
-2003-01-01,28420,"Kennewick-Richland, WA (Metropolitan Statistical Area)",10261701
-2004-01-01,28420,"Kennewick-Richland, WA (Metropolitan Statistical Area)",10498214
-2005-01-01,28420,"Kennewick-Richland, WA (Metropolitan Statistical Area)",11124149
-2006-01-01,28420,"Kennewick-Richland, WA (Metropolitan Statistical Area)",11485738
-2007-01-01,28420,"Kennewick-Richland, WA (Metropolitan Statistical Area)",11610410
-2008-01-01,28420,"Kennewick-Richland, WA (Metropolitan Statistical Area)",11873942
 2001-01-01,28660,"Killeen-Temple, TX (Metropolitan Statistical Area)",12013168
 2002-01-01,28660,"Killeen-Temple, TX (Metropolitan Statistical Area)",12479676
 2003-01-01,28660,"Killeen-Temple, TX (Metropolitan Statistical Area)",13091655
@@ -4530,15 +4530,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2005-01-01,29700,"Laredo, TX (Metropolitan Statistical Area)",7143420
 2006-01-01,29700,"Laredo, TX (Metropolitan Statistical Area)",7206105
 2007-01-01,29700,"Laredo, TX (Metropolitan Statistical Area)",7114475
-2001-01-01,29740,"Las Cruces, NM (Metropolitan Statistical Area)",5252277
-2002-01-01,29740,"Las Cruces, NM (Metropolitan Statistical Area)",5479122
-2003-01-01,29740,"Las Cruces, NM (Metropolitan Statistical Area)",5932855
-2004-01-01,29740,"Las Cruces, NM (Metropolitan Statistical Area)",6416076
-2005-01-01,29740,"Las Cruces, NM (Metropolitan Statistical Area)",6918771
-2006-01-01,29740,"Las Cruces, NM (Metropolitan Statistical Area)",6939756
-2007-01-01,29740,"Las Cruces, NM (Metropolitan Statistical Area)",6992506
-2008-01-01,29740,"Las Cruces, NM (Metropolitan Statistical Area)",6999287
-2009-01-01,29740,"Las Cruces, NM (Metropolitan Statistical Area)",7303079
 2010-01-01,29740,"Las Cruces, NM (Metropolitan Statistical Area)",7656106
 2011-01-01,29740,"Las Cruces, NM (Metropolitan Statistical Area)",7346256
 2012-01-01,29740,"Las Cruces, NM (Metropolitan Statistical Area)",6939610
@@ -4553,6 +4544,15 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,29740,"Las Cruces, NM (Metropolitan Statistical Area)",7978043
 2022-01-01,29740,"Las Cruces, NM (Metropolitan Statistical Area)",8139926
 2023-01-01,29740,"Las Cruces, NM (Metropolitan Statistical Area)",8537154
+2001-01-01,29740,"Las Cruces, NM (Metropolitan Statistical Area)",5252277
+2002-01-01,29740,"Las Cruces, NM (Metropolitan Statistical Area)",5479122
+2003-01-01,29740,"Las Cruces, NM (Metropolitan Statistical Area)",5932855
+2004-01-01,29740,"Las Cruces, NM (Metropolitan Statistical Area)",6416076
+2005-01-01,29740,"Las Cruces, NM (Metropolitan Statistical Area)",6918771
+2006-01-01,29740,"Las Cruces, NM (Metropolitan Statistical Area)",6939756
+2007-01-01,29740,"Las Cruces, NM (Metropolitan Statistical Area)",6992506
+2008-01-01,29740,"Las Cruces, NM (Metropolitan Statistical Area)",6999287
+2009-01-01,29740,"Las Cruces, NM (Metropolitan Statistical Area)",7303079
 2011-01-01,29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",101509866
 2010-01-01,29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",99797887
 2009-01-01,29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",100314941
@@ -4760,6 +4760,14 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,30700,"Lincoln, NE (Metropolitan Statistical Area)",21093487
 2022-01-01,30700,"Lincoln, NE (Metropolitan Statistical Area)",22054048
 2023-01-01,30700,"Lincoln, NE (Metropolitan Statistical Area)",22777574
+2001-01-01,30780,"Little Rock-North Little Rock-Conway, AR (Metropolitan Statistical Area)",28518862
+2002-01-01,30780,"Little Rock-North Little Rock-Conway, AR (Metropolitan Statistical Area)",29374165
+2003-01-01,30780,"Little Rock-North Little Rock-Conway, AR (Metropolitan Statistical Area)",30822430
+2004-01-01,30780,"Little Rock-North Little Rock-Conway, AR (Metropolitan Statistical Area)",32146847
+2005-01-01,30780,"Little Rock-North Little Rock-Conway, AR (Metropolitan Statistical Area)",33901461
+2006-01-01,30780,"Little Rock-North Little Rock-Conway, AR (Metropolitan Statistical Area)",34800301
+2007-01-01,30780,"Little Rock-North Little Rock-Conway, AR (Metropolitan Statistical Area)",35886627
+2008-01-01,30780,"Little Rock-North Little Rock-Conway, AR (Metropolitan Statistical Area)",35491515
 2009-01-01,30780,"Little Rock-North Little Rock-Conway, AR (Metropolitan Statistical Area)",34386199
 2010-01-01,30780,"Little Rock-North Little Rock-Conway, AR (Metropolitan Statistical Area)",34303446
 2011-01-01,30780,"Little Rock-North Little Rock-Conway, AR (Metropolitan Statistical Area)",34852470
@@ -4775,14 +4783,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,30780,"Little Rock-North Little Rock-Conway, AR (Metropolitan Statistical Area)",39432797
 2022-01-01,30780,"Little Rock-North Little Rock-Conway, AR (Metropolitan Statistical Area)",39880822
 2023-01-01,30780,"Little Rock-North Little Rock-Conway, AR (Metropolitan Statistical Area)",41292149
-2001-01-01,30780,"Little Rock-North Little Rock-Conway, AR (Metropolitan Statistical Area)",28518862
-2002-01-01,30780,"Little Rock-North Little Rock-Conway, AR (Metropolitan Statistical Area)",29374165
-2003-01-01,30780,"Little Rock-North Little Rock-Conway, AR (Metropolitan Statistical Area)",30822430
-2004-01-01,30780,"Little Rock-North Little Rock-Conway, AR (Metropolitan Statistical Area)",32146847
-2005-01-01,30780,"Little Rock-North Little Rock-Conway, AR (Metropolitan Statistical Area)",33901461
-2006-01-01,30780,"Little Rock-North Little Rock-Conway, AR (Metropolitan Statistical Area)",34800301
-2007-01-01,30780,"Little Rock-North Little Rock-Conway, AR (Metropolitan Statistical Area)",35886627
-2008-01-01,30780,"Little Rock-North Little Rock-Conway, AR (Metropolitan Statistical Area)",35491515
 2010-01-01,30860,"Logan, UT-ID (Metropolitan Statistical Area)",4563042
 2011-01-01,30860,"Logan, UT-ID (Metropolitan Statistical Area)",4708147
 2012-01-01,30860,"Logan, UT-ID (Metropolitan Statistical Area)",4604739
@@ -4806,15 +4806,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2007-01-01,30860,"Logan, UT-ID (Metropolitan Statistical Area)",3922712
 2008-01-01,30860,"Logan, UT-ID (Metropolitan Statistical Area)",4119182
 2009-01-01,30860,"Logan, UT-ID (Metropolitan Statistical Area)",4219955
-2001-01-01,30980,"Longview, TX (Metropolitan Statistical Area)",12399537
-2002-01-01,30980,"Longview, TX (Metropolitan Statistical Area)",12821716
-2003-01-01,30980,"Longview, TX (Metropolitan Statistical Area)",12675159
-2004-01-01,30980,"Longview, TX (Metropolitan Statistical Area)",12950284
-2005-01-01,30980,"Longview, TX (Metropolitan Statistical Area)",13742536
-2006-01-01,30980,"Longview, TX (Metropolitan Statistical Area)",14841910
-2007-01-01,30980,"Longview, TX (Metropolitan Statistical Area)",16262901
-2008-01-01,30980,"Longview, TX (Metropolitan Statistical Area)",17257373
-2009-01-01,30980,"Longview, TX (Metropolitan Statistical Area)",18178309
 2010-01-01,30980,"Longview, TX (Metropolitan Statistical Area)",17028426
 2011-01-01,30980,"Longview, TX (Metropolitan Statistical Area)",16242103
 2012-01-01,30980,"Longview, TX (Metropolitan Statistical Area)",16293652
@@ -4829,6 +4820,15 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,30980,"Longview, TX (Metropolitan Statistical Area)",15000258
 2022-01-01,30980,"Longview, TX (Metropolitan Statistical Area)",15454262
 2023-01-01,30980,"Longview, TX (Metropolitan Statistical Area)",15974088
+2001-01-01,30980,"Longview, TX (Metropolitan Statistical Area)",12399537
+2002-01-01,30980,"Longview, TX (Metropolitan Statistical Area)",12821716
+2003-01-01,30980,"Longview, TX (Metropolitan Statistical Area)",12675159
+2004-01-01,30980,"Longview, TX (Metropolitan Statistical Area)",12950284
+2005-01-01,30980,"Longview, TX (Metropolitan Statistical Area)",13742536
+2006-01-01,30980,"Longview, TX (Metropolitan Statistical Area)",14841910
+2007-01-01,30980,"Longview, TX (Metropolitan Statistical Area)",16262901
+2008-01-01,30980,"Longview, TX (Metropolitan Statistical Area)",17257373
+2009-01-01,30980,"Longview, TX (Metropolitan Statistical Area)",18178309
 2001-01-01,31020,"Longview, WA (Metropolitan Statistical Area)",3618523
 2002-01-01,31020,"Longview, WA (Metropolitan Statistical Area)",3507652
 2003-01-01,31020,"Longview, WA (Metropolitan Statistical Area)",3618911
@@ -5036,6 +5036,14 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,31700,"Manchester-Nashua, NH (Metropolitan Statistical Area)",29511318
 2022-01-01,31700,"Manchester-Nashua, NH (Metropolitan Statistical Area)",30010481
 2023-01-01,31700,"Manchester-Nashua, NH (Metropolitan Statistical Area)",30476161
+2016-01-01,31740,"Manhattan, KS (Metropolitan Statistical Area)",7191474
+2017-01-01,31740,"Manhattan, KS (Metropolitan Statistical Area)",7189918
+2018-01-01,31740,"Manhattan, KS (Metropolitan Statistical Area)",7104990
+2019-01-01,31740,"Manhattan, KS (Metropolitan Statistical Area)",6872458
+2020-01-01,31740,"Manhattan, KS (Metropolitan Statistical Area)",6841825
+2021-01-01,31740,"Manhattan, KS (Metropolitan Statistical Area)",7108693
+2022-01-01,31740,"Manhattan, KS (Metropolitan Statistical Area)",7113660
+2023-01-01,31740,"Manhattan, KS (Metropolitan Statistical Area)",7020615
 2001-01-01,31740,"Manhattan, KS (Metropolitan Statistical Area)",5064312
 2002-01-01,31740,"Manhattan, KS (Metropolitan Statistical Area)",5093381
 2003-01-01,31740,"Manhattan, KS (Metropolitan Statistical Area)",5314159
@@ -5051,14 +5059,15 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2013-01-01,31740,"Manhattan, KS (Metropolitan Statistical Area)",7483097
 2014-01-01,31740,"Manhattan, KS (Metropolitan Statistical Area)",7229365
 2015-01-01,31740,"Manhattan, KS (Metropolitan Statistical Area)",7307689
-2016-01-01,31740,"Manhattan, KS (Metropolitan Statistical Area)",7191474
-2017-01-01,31740,"Manhattan, KS (Metropolitan Statistical Area)",7189918
-2018-01-01,31740,"Manhattan, KS (Metropolitan Statistical Area)",7104990
-2019-01-01,31740,"Manhattan, KS (Metropolitan Statistical Area)",6872458
-2020-01-01,31740,"Manhattan, KS (Metropolitan Statistical Area)",6841825
-2021-01-01,31740,"Manhattan, KS (Metropolitan Statistical Area)",7108693
-2022-01-01,31740,"Manhattan, KS (Metropolitan Statistical Area)",7113660
-2023-01-01,31740,"Manhattan, KS (Metropolitan Statistical Area)",7020615
+2001-01-01,31860,"Mankato, MN (Metropolitan Statistical Area)",3880260
+2002-01-01,31860,"Mankato, MN (Metropolitan Statistical Area)",4050503
+2003-01-01,31860,"Mankato, MN (Metropolitan Statistical Area)",4082286
+2004-01-01,31860,"Mankato, MN (Metropolitan Statistical Area)",4331390
+2005-01-01,31860,"Mankato, MN (Metropolitan Statistical Area)",4515613
+2006-01-01,31860,"Mankato, MN (Metropolitan Statistical Area)",4848288
+2007-01-01,31860,"Mankato, MN (Metropolitan Statistical Area)",4741927
+2008-01-01,31860,"Mankato, MN (Metropolitan Statistical Area)",4799618
+2009-01-01,31860,"Mankato, MN (Metropolitan Statistical Area)",4621988
 2010-01-01,31860,"Mankato, MN (Metropolitan Statistical Area)",4870737
 2011-01-01,31860,"Mankato, MN (Metropolitan Statistical Area)",4942101
 2012-01-01,31860,"Mankato, MN (Metropolitan Statistical Area)",5196712
@@ -5073,15 +5082,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,31860,"Mankato, MN (Metropolitan Statistical Area)",5612433
 2022-01-01,31860,"Mankato, MN (Metropolitan Statistical Area)",5692707
 2023-01-01,31860,"Mankato, MN (Metropolitan Statistical Area)",5670157
-2001-01-01,31860,"Mankato, MN (Metropolitan Statistical Area)",3880260
-2002-01-01,31860,"Mankato, MN (Metropolitan Statistical Area)",4050503
-2003-01-01,31860,"Mankato, MN (Metropolitan Statistical Area)",4082286
-2004-01-01,31860,"Mankato, MN (Metropolitan Statistical Area)",4331390
-2005-01-01,31860,"Mankato, MN (Metropolitan Statistical Area)",4515613
-2006-01-01,31860,"Mankato, MN (Metropolitan Statistical Area)",4848288
-2007-01-01,31860,"Mankato, MN (Metropolitan Statistical Area)",4741927
-2008-01-01,31860,"Mankato, MN (Metropolitan Statistical Area)",4799618
-2009-01-01,31860,"Mankato, MN (Metropolitan Statistical Area)",4621988
 2010-01-01,31900,"Mansfield, OH (Metropolitan Statistical Area)",4349582
 2011-01-01,31900,"Mansfield, OH (Metropolitan Statistical Area)",4477964
 2012-01-01,31900,"Mansfield, OH (Metropolitan Statistical Area)",4533586
@@ -5197,6 +5197,7 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,32900,"Merced, CA (Metropolitan Statistical Area)",9294314
 2022-01-01,32900,"Merced, CA (Metropolitan Statistical Area)",9511320
 2023-01-01,32900,"Merced, CA (Metropolitan Statistical Area)",9548937
+2023-01-01,33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",431882272
 2001-01-01,33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",246797368
 2002-01-01,33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",256640851
 2003-01-01,33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",266575139
@@ -5219,7 +5220,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2020-01-01,33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",353846629
 2021-01-01,33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",391367438
 2022-01-01,33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",415201140
-2023-01-01,33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",431882272
 2002-01-01,33140,"Michigan City-La Porte, IN (Metropolitan Statistical Area)",4070578
 2001-01-01,33140,"Michigan City-La Porte, IN (Metropolitan Statistical Area)",4069462
 2023-01-01,33140,"Michigan City-La Porte, IN (Metropolitan Statistical Area)",4396220
@@ -5243,6 +5243,15 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2005-01-01,33140,"Michigan City-La Porte, IN (Metropolitan Statistical Area)",4219433
 2004-01-01,33140,"Michigan City-La Porte, IN (Metropolitan Statistical Area)",4261389
 2003-01-01,33140,"Michigan City-La Porte, IN (Metropolitan Statistical Area)",4100058
+2001-01-01,33220,"Midland, MI (Metropolitan Statistical Area)",5008681
+2002-01-01,33220,"Midland, MI (Metropolitan Statistical Area)",5147589
+2003-01-01,33220,"Midland, MI (Metropolitan Statistical Area)",4898476
+2004-01-01,33220,"Midland, MI (Metropolitan Statistical Area)",5172195
+2005-01-01,33220,"Midland, MI (Metropolitan Statistical Area)",4640307
+2006-01-01,33220,"Midland, MI (Metropolitan Statistical Area)",4639932
+2007-01-01,33220,"Midland, MI (Metropolitan Statistical Area)",4745532
+2008-01-01,33220,"Midland, MI (Metropolitan Statistical Area)",4605105
+2009-01-01,33220,"Midland, MI (Metropolitan Statistical Area)",4377136
 2010-01-01,33220,"Midland, MI (Metropolitan Statistical Area)",4542825
 2011-01-01,33220,"Midland, MI (Metropolitan Statistical Area)",4636583
 2012-01-01,33220,"Midland, MI (Metropolitan Statistical Area)",4759901
@@ -5257,15 +5266,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,33220,"Midland, MI (Metropolitan Statistical Area)",5907218
 2022-01-01,33220,"Midland, MI (Metropolitan Statistical Area)",5995496
 2023-01-01,33220,"Midland, MI (Metropolitan Statistical Area)",6344935
-2001-01-01,33220,"Midland, MI (Metropolitan Statistical Area)",5008681
-2002-01-01,33220,"Midland, MI (Metropolitan Statistical Area)",5147589
-2003-01-01,33220,"Midland, MI (Metropolitan Statistical Area)",4898476
-2004-01-01,33220,"Midland, MI (Metropolitan Statistical Area)",5172195
-2005-01-01,33220,"Midland, MI (Metropolitan Statistical Area)",4640307
-2006-01-01,33220,"Midland, MI (Metropolitan Statistical Area)",4639932
-2007-01-01,33220,"Midland, MI (Metropolitan Statistical Area)",4745532
-2008-01-01,33220,"Midland, MI (Metropolitan Statistical Area)",4605105
-2009-01-01,33220,"Midland, MI (Metropolitan Statistical Area)",4377136
 2001-01-01,33260,"Midland, TX (Metropolitan Statistical Area)",5748036
 2002-01-01,33260,"Midland, TX (Metropolitan Statistical Area)",5841039
 2003-01-01,33260,"Midland, TX (Metropolitan Statistical Area)",5606790
@@ -5726,6 +5726,8 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2007-01-01,35300,"New Haven-Milford, CT (Metropolitan Statistical Area)",50446434
 2008-01-01,35300,"New Haven-Milford, CT (Metropolitan Statistical Area)",50276431
 2009-01-01,35300,"New Haven-Milford, CT (Metropolitan Statistical Area)",47230366
+2022-01-01,35380,"New Orleans-Metairie, LA (Metropolitan Statistical Area)",75742641
+2023-01-01,35380,"New Orleans-Metairie, LA (Metropolitan Statistical Area)",79551971
 2001-01-01,35380,"New Orleans-Metairie, LA (Metropolitan Statistical Area)",74342679
 2002-01-01,35380,"New Orleans-Metairie, LA (Metropolitan Statistical Area)",76170152
 2003-01-01,35380,"New Orleans-Metairie, LA (Metropolitan Statistical Area)",79786819
@@ -5747,8 +5749,15 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2019-01-01,35380,"New Orleans-Metairie, LA (Metropolitan Statistical Area)",79758003
 2020-01-01,35380,"New Orleans-Metairie, LA (Metropolitan Statistical Area)",73387803
 2021-01-01,35380,"New Orleans-Metairie, LA (Metropolitan Statistical Area)",76752964
-2022-01-01,35380,"New Orleans-Metairie, LA (Metropolitan Statistical Area)",75742641
-2023-01-01,35380,"New Orleans-Metairie, LA (Metropolitan Statistical Area)",79551971
+2001-01-01,35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",1329496181
+2002-01-01,35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",1318993384
+2003-01-01,35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",1325356544
+2004-01-01,35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",1354477967
+2005-01-01,35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",1392492407
+2006-01-01,35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",1434557706
+2007-01-01,35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",1450432975
+2008-01-01,35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",1425548233
+2009-01-01,35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",1456569011
 2010-01-01,35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",1505251784
 2011-01-01,35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",1511139478
 2012-01-01,35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",1574050499
@@ -5763,15 +5772,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",1834472543
 2022-01-01,35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",1875061603
 2023-01-01,35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",1905237359
-2001-01-01,35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",1329496181
-2002-01-01,35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",1318993384
-2003-01-01,35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",1325356544
-2004-01-01,35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",1354477967
-2005-01-01,35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",1392492407
-2006-01-01,35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",1434557706
-2007-01-01,35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",1450432975
-2008-01-01,35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",1425548233
-2009-01-01,35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",1456569011
 2001-01-01,35660,"Niles, MI (Metropolitan Statistical Area)",6720662
 2002-01-01,35660,"Niles, MI (Metropolitan Statistical Area)",6844531
 2003-01-01,35660,"Niles, MI (Metropolitan Statistical Area)",6978225
@@ -5795,15 +5795,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,35660,"Niles, MI (Metropolitan Statistical Area)",7522506
 2022-01-01,35660,"Niles, MI (Metropolitan Statistical Area)",7423846
 2023-01-01,35660,"Niles, MI (Metropolitan Statistical Area)",7361870
-2001-01-01,35840,"North Port-Sarasota-Bradenton, FL (Metropolitan Statistical Area)",23805547
-2002-01-01,35840,"North Port-Sarasota-Bradenton, FL (Metropolitan Statistical Area)",25874132
-2003-01-01,35840,"North Port-Sarasota-Bradenton, FL (Metropolitan Statistical Area)",27287760
-2004-01-01,35840,"North Port-Sarasota-Bradenton, FL (Metropolitan Statistical Area)",30093816
-2005-01-01,35840,"North Port-Sarasota-Bradenton, FL (Metropolitan Statistical Area)",32827894
-2006-01-01,35840,"North Port-Sarasota-Bradenton, FL (Metropolitan Statistical Area)",33708348
-2007-01-01,35840,"North Port-Sarasota-Bradenton, FL (Metropolitan Statistical Area)",32826144
-2008-01-01,35840,"North Port-Sarasota-Bradenton, FL (Metropolitan Statistical Area)",30243904
-2009-01-01,35840,"North Port-Sarasota-Bradenton, FL (Metropolitan Statistical Area)",28642341
 2010-01-01,35840,"North Port-Sarasota-Bradenton, FL (Metropolitan Statistical Area)",27601073
 2011-01-01,35840,"North Port-Sarasota-Bradenton, FL (Metropolitan Statistical Area)",27785593
 2012-01-01,35840,"North Port-Sarasota-Bradenton, FL (Metropolitan Statistical Area)",27490477
@@ -5818,6 +5809,15 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,35840,"North Port-Sarasota-Bradenton, FL (Metropolitan Statistical Area)",40613168
 2022-01-01,35840,"North Port-Sarasota-Bradenton, FL (Metropolitan Statistical Area)",43479043
 2023-01-01,35840,"North Port-Sarasota-Bradenton, FL (Metropolitan Statistical Area)",45413237
+2001-01-01,35840,"North Port-Sarasota-Bradenton, FL (Metropolitan Statistical Area)",23805547
+2002-01-01,35840,"North Port-Sarasota-Bradenton, FL (Metropolitan Statistical Area)",25874132
+2003-01-01,35840,"North Port-Sarasota-Bradenton, FL (Metropolitan Statistical Area)",27287760
+2004-01-01,35840,"North Port-Sarasota-Bradenton, FL (Metropolitan Statistical Area)",30093816
+2005-01-01,35840,"North Port-Sarasota-Bradenton, FL (Metropolitan Statistical Area)",32827894
+2006-01-01,35840,"North Port-Sarasota-Bradenton, FL (Metropolitan Statistical Area)",33708348
+2007-01-01,35840,"North Port-Sarasota-Bradenton, FL (Metropolitan Statistical Area)",32826144
+2008-01-01,35840,"North Port-Sarasota-Bradenton, FL (Metropolitan Statistical Area)",30243904
+2009-01-01,35840,"North Port-Sarasota-Bradenton, FL (Metropolitan Statistical Area)",28642341
 2001-01-01,35980,"Norwich-New London, CT (Metropolitan Statistical Area)",15552094
 2002-01-01,35980,"Norwich-New London, CT (Metropolitan Statistical Area)",16322816
 2003-01-01,35980,"Norwich-New London, CT (Metropolitan Statistical Area)",17125052
@@ -5841,9 +5841,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,35980,"Norwich-New London, CT (Metropolitan Statistical Area)",18417944
 2022-01-01,35980,"Norwich-New London, CT (Metropolitan Statistical Area)",19021458
 2023-01-01,35980,"Norwich-New London, CT (Metropolitan Statistical Area)",19691503
-2001-01-01,36100,"Ocala, FL (Metropolitan Statistical Area)",7085063
-2002-01-01,36100,"Ocala, FL (Metropolitan Statistical Area)",7454844
-2003-01-01,36100,"Ocala, FL (Metropolitan Statistical Area)",7982158
 2004-01-01,36100,"Ocala, FL (Metropolitan Statistical Area)",8518599
 2005-01-01,36100,"Ocala, FL (Metropolitan Statistical Area)",9191556
 2006-01-01,36100,"Ocala, FL (Metropolitan Statistical Area)",9887822
@@ -5864,6 +5861,9 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,36100,"Ocala, FL (Metropolitan Statistical Area)",11573193
 2022-01-01,36100,"Ocala, FL (Metropolitan Statistical Area)",11975281
 2023-01-01,36100,"Ocala, FL (Metropolitan Statistical Area)",12616744
+2001-01-01,36100,"Ocala, FL (Metropolitan Statistical Area)",7085063
+2002-01-01,36100,"Ocala, FL (Metropolitan Statistical Area)",7454844
+2003-01-01,36100,"Ocala, FL (Metropolitan Statistical Area)",7982158
 2009-01-01,36140,"Ocean City, NJ (Metropolitan Statistical Area)",4911785
 2008-01-01,36140,"Ocean City, NJ (Metropolitan Statistical Area)",5434067
 2007-01-01,36140,"Ocean City, NJ (Metropolitan Statistical Area)",5459035
@@ -5933,6 +5933,9 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,36260,"Ogden-Clearfield, UT (Metropolitan Statistical Area)",32458648
 2022-01-01,36260,"Ogden-Clearfield, UT (Metropolitan Statistical Area)",33337881
 2023-01-01,36260,"Ogden-Clearfield, UT (Metropolitan Statistical Area)",34700215
+2001-01-01,36420,"Oklahoma City, OK (Metropolitan Statistical Area)",46543563
+2002-01-01,36420,"Oklahoma City, OK (Metropolitan Statistical Area)",47364756
+2003-01-01,36420,"Oklahoma City, OK (Metropolitan Statistical Area)",48536578
 2004-01-01,36420,"Oklahoma City, OK (Metropolitan Statistical Area)",50501942
 2005-01-01,36420,"Oklahoma City, OK (Metropolitan Statistical Area)",52126229
 2006-01-01,36420,"Oklahoma City, OK (Metropolitan Statistical Area)",55067063
@@ -5953,9 +5956,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,36420,"Oklahoma City, OK (Metropolitan Statistical Area)",76698711
 2022-01-01,36420,"Oklahoma City, OK (Metropolitan Statistical Area)",76312222
 2023-01-01,36420,"Oklahoma City, OK (Metropolitan Statistical Area)",81586133
-2001-01-01,36420,"Oklahoma City, OK (Metropolitan Statistical Area)",46543563
-2002-01-01,36420,"Oklahoma City, OK (Metropolitan Statistical Area)",47364756
-2003-01-01,36420,"Oklahoma City, OK (Metropolitan Statistical Area)",48536578
 2001-01-01,36500,"Olympia-Lacey-Tumwater, WA (Metropolitan Statistical Area)",9340252
 2002-01-01,36500,"Olympia-Lacey-Tumwater, WA (Metropolitan Statistical Area)",9445732
 2003-01-01,36500,"Olympia-Lacey-Tumwater, WA (Metropolitan Statistical Area)",9606629
@@ -6002,6 +6002,15 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2007-01-01,36540,"Omaha-Council Bluffs, NE-IA (Metropolitan Statistical Area)",51734346
 2008-01-01,36540,"Omaha-Council Bluffs, NE-IA (Metropolitan Statistical Area)",51273367
 2009-01-01,36540,"Omaha-Council Bluffs, NE-IA (Metropolitan Statistical Area)",51371588
+2001-01-01,36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",87051253
+2002-01-01,36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",90363071
+2003-01-01,36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",95216336
+2004-01-01,36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",102344344
+2005-01-01,36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",110181745
+2006-01-01,36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",113678988
+2007-01-01,36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",116664505
+2008-01-01,36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",113678708
+2009-01-01,36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",105856691
 2010-01-01,36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",107270919
 2011-01-01,36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",107456421
 2012-01-01,36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",110030803
@@ -6016,15 +6025,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",156896666
 2022-01-01,36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",167758519
 2023-01-01,36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",175313253
-2001-01-01,36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",87051253
-2002-01-01,36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",90363071
-2003-01-01,36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",95216336
-2004-01-01,36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",102344344
-2005-01-01,36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",110181745
-2006-01-01,36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",113678988
-2007-01-01,36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",116664505
-2008-01-01,36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",113678708
-2009-01-01,36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",105856691
 2001-01-01,36780,"Oshkosh-Neenah, WI (Metropolitan Statistical Area)",8510486
 2002-01-01,36780,"Oshkosh-Neenah, WI (Metropolitan Statistical Area)",9147946
 2003-01-01,36780,"Oshkosh-Neenah, WI (Metropolitan Statistical Area)",9222775
@@ -6485,10 +6485,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,39300,"Providence-Warwick, RI-MA (Metropolitan Statistical Area)",88473648
 2022-01-01,39300,"Providence-Warwick, RI-MA (Metropolitan Statistical Area)",89311992
 2023-01-01,39300,"Providence-Warwick, RI-MA (Metropolitan Statistical Area)",90427093
-2020-01-01,39340,"Provo-Orem, UT (Metropolitan Statistical Area)",31491643
-2021-01-01,39340,"Provo-Orem, UT (Metropolitan Statistical Area)",34120398
-2022-01-01,39340,"Provo-Orem, UT (Metropolitan Statistical Area)",35802645
-2023-01-01,39340,"Provo-Orem, UT (Metropolitan Statistical Area)",37369010
 2001-01-01,39340,"Provo-Orem, UT (Metropolitan Statistical Area)",11710195
 2002-01-01,39340,"Provo-Orem, UT (Metropolitan Statistical Area)",11984499
 2003-01-01,39340,"Provo-Orem, UT (Metropolitan Statistical Area)",12515232
@@ -6508,6 +6504,19 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2017-01-01,39340,"Provo-Orem, UT (Metropolitan Statistical Area)",25475443
 2018-01-01,39340,"Provo-Orem, UT (Metropolitan Statistical Area)",27586380
 2019-01-01,39340,"Provo-Orem, UT (Metropolitan Statistical Area)",30107324
+2020-01-01,39340,"Provo-Orem, UT (Metropolitan Statistical Area)",31491643
+2021-01-01,39340,"Provo-Orem, UT (Metropolitan Statistical Area)",34120398
+2022-01-01,39340,"Provo-Orem, UT (Metropolitan Statistical Area)",35802645
+2023-01-01,39340,"Provo-Orem, UT (Metropolitan Statistical Area)",37369010
+2001-01-01,39380,"Pueblo, CO (Metropolitan Statistical Area)",4852134
+2002-01-01,39380,"Pueblo, CO (Metropolitan Statistical Area)",4905780
+2003-01-01,39380,"Pueblo, CO (Metropolitan Statistical Area)",5012820
+2004-01-01,39380,"Pueblo, CO (Metropolitan Statistical Area)",5282428
+2005-01-01,39380,"Pueblo, CO (Metropolitan Statistical Area)",4979588
+2006-01-01,39380,"Pueblo, CO (Metropolitan Statistical Area)",5126891
+2007-01-01,39380,"Pueblo, CO (Metropolitan Statistical Area)",5130270
+2008-01-01,39380,"Pueblo, CO (Metropolitan Statistical Area)",5415107
+2009-01-01,39380,"Pueblo, CO (Metropolitan Statistical Area)",5428487
 2010-01-01,39380,"Pueblo, CO (Metropolitan Statistical Area)",5531598
 2011-01-01,39380,"Pueblo, CO (Metropolitan Statistical Area)",5708248
 2012-01-01,39380,"Pueblo, CO (Metropolitan Statistical Area)",5828703
@@ -6522,15 +6531,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,39380,"Pueblo, CO (Metropolitan Statistical Area)",6602826
 2022-01-01,39380,"Pueblo, CO (Metropolitan Statistical Area)",6456071
 2023-01-01,39380,"Pueblo, CO (Metropolitan Statistical Area)",6881755
-2001-01-01,39380,"Pueblo, CO (Metropolitan Statistical Area)",4852134
-2002-01-01,39380,"Pueblo, CO (Metropolitan Statistical Area)",4905780
-2003-01-01,39380,"Pueblo, CO (Metropolitan Statistical Area)",5012820
-2004-01-01,39380,"Pueblo, CO (Metropolitan Statistical Area)",5282428
-2005-01-01,39380,"Pueblo, CO (Metropolitan Statistical Area)",4979588
-2006-01-01,39380,"Pueblo, CO (Metropolitan Statistical Area)",5126891
-2007-01-01,39380,"Pueblo, CO (Metropolitan Statistical Area)",5130270
-2008-01-01,39380,"Pueblo, CO (Metropolitan Statistical Area)",5415107
-2009-01-01,39380,"Pueblo, CO (Metropolitan Statistical Area)",5428487
 2001-01-01,39460,"Punta Gorda, FL (Metropolitan Statistical Area)",3964650
 2002-01-01,39460,"Punta Gorda, FL (Metropolitan Statistical Area)",4235410
 2003-01-01,39460,"Punta Gorda, FL (Metropolitan Statistical Area)",4439312
@@ -6761,15 +6761,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,40220,"Roanoke, VA (Metropolitan Statistical Area) *",16722907
 2022-01-01,40220,"Roanoke, VA (Metropolitan Statistical Area) *",16950177
 2023-01-01,40220,"Roanoke, VA (Metropolitan Statistical Area) *",17445530
-2015-01-01,40340,"Rochester, MN (Metropolitan Statistical Area)",12471081
-2016-01-01,40340,"Rochester, MN (Metropolitan Statistical Area)",12642691
-2017-01-01,40340,"Rochester, MN (Metropolitan Statistical Area)",13102093
-2018-01-01,40340,"Rochester, MN (Metropolitan Statistical Area)",13555688
-2019-01-01,40340,"Rochester, MN (Metropolitan Statistical Area)",13829432
-2020-01-01,40340,"Rochester, MN (Metropolitan Statistical Area)",13601413
-2021-01-01,40340,"Rochester, MN (Metropolitan Statistical Area)",14127027
-2022-01-01,40340,"Rochester, MN (Metropolitan Statistical Area)",14405533
-2023-01-01,40340,"Rochester, MN (Metropolitan Statistical Area)",14860270
 2001-01-01,40340,"Rochester, MN (Metropolitan Statistical Area)",8252038
 2002-01-01,40340,"Rochester, MN (Metropolitan Statistical Area)",8846448
 2003-01-01,40340,"Rochester, MN (Metropolitan Statistical Area)",9561152
@@ -6784,6 +6775,26 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2012-01-01,40340,"Rochester, MN (Metropolitan Statistical Area)",11646562
 2013-01-01,40340,"Rochester, MN (Metropolitan Statistical Area)",11936063
 2014-01-01,40340,"Rochester, MN (Metropolitan Statistical Area)",12123127
+2015-01-01,40340,"Rochester, MN (Metropolitan Statistical Area)",12471081
+2016-01-01,40340,"Rochester, MN (Metropolitan Statistical Area)",12642691
+2017-01-01,40340,"Rochester, MN (Metropolitan Statistical Area)",13102093
+2018-01-01,40340,"Rochester, MN (Metropolitan Statistical Area)",13555688
+2019-01-01,40340,"Rochester, MN (Metropolitan Statistical Area)",13829432
+2020-01-01,40340,"Rochester, MN (Metropolitan Statistical Area)",13601413
+2021-01-01,40340,"Rochester, MN (Metropolitan Statistical Area)",14127027
+2022-01-01,40340,"Rochester, MN (Metropolitan Statistical Area)",14405533
+2023-01-01,40340,"Rochester, MN (Metropolitan Statistical Area)",14860270
+2013-01-01,40380,"Rochester, NY (Metropolitan Statistical Area)",59510574
+2014-01-01,40380,"Rochester, NY (Metropolitan Statistical Area)",59161707
+2015-01-01,40380,"Rochester, NY (Metropolitan Statistical Area)",60566829
+2016-01-01,40380,"Rochester, NY (Metropolitan Statistical Area)",60450786
+2017-01-01,40380,"Rochester, NY (Metropolitan Statistical Area)",61031225
+2018-01-01,40380,"Rochester, NY (Metropolitan Statistical Area)",61352704
+2019-01-01,40380,"Rochester, NY (Metropolitan Statistical Area)",62999479
+2020-01-01,40380,"Rochester, NY (Metropolitan Statistical Area)",60958574
+2021-01-01,40380,"Rochester, NY (Metropolitan Statistical Area)",63636769
+2022-01-01,40380,"Rochester, NY (Metropolitan Statistical Area)",63772182
+2023-01-01,40380,"Rochester, NY (Metropolitan Statistical Area)",63823414
 2001-01-01,40380,"Rochester, NY (Metropolitan Statistical Area)",56391343
 2002-01-01,40380,"Rochester, NY (Metropolitan Statistical Area)",56457699
 2003-01-01,40380,"Rochester, NY (Metropolitan Statistical Area)",57370080
@@ -6796,17 +6807,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2010-01-01,40380,"Rochester, NY (Metropolitan Statistical Area)",60874843
 2011-01-01,40380,"Rochester, NY (Metropolitan Statistical Area)",59498828
 2012-01-01,40380,"Rochester, NY (Metropolitan Statistical Area)",59674686
-2013-01-01,40380,"Rochester, NY (Metropolitan Statistical Area)",59510574
-2014-01-01,40380,"Rochester, NY (Metropolitan Statistical Area)",59161707
-2015-01-01,40380,"Rochester, NY (Metropolitan Statistical Area)",60566829
-2016-01-01,40380,"Rochester, NY (Metropolitan Statistical Area)",60450786
-2017-01-01,40380,"Rochester, NY (Metropolitan Statistical Area)",61031225
-2018-01-01,40380,"Rochester, NY (Metropolitan Statistical Area)",61352704
-2019-01-01,40380,"Rochester, NY (Metropolitan Statistical Area)",62999479
-2020-01-01,40380,"Rochester, NY (Metropolitan Statistical Area)",60958574
-2021-01-01,40380,"Rochester, NY (Metropolitan Statistical Area)",63636769
-2022-01-01,40380,"Rochester, NY (Metropolitan Statistical Area)",63772182
-2023-01-01,40380,"Rochester, NY (Metropolitan Statistical Area)",63823414
 2001-01-01,40420,"Rockford, IL (Metropolitan Statistical Area)",14140480
 2002-01-01,40420,"Rockford, IL (Metropolitan Statistical Area)",14387701
 2003-01-01,40420,"Rockford, IL (Metropolitan Statistical Area)",14640037
@@ -6876,15 +6876,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,40660,"Rome, GA (Metropolitan Statistical Area)",4160677
 2022-01-01,40660,"Rome, GA (Metropolitan Statistical Area)",4267096
 2023-01-01,40660,"Rome, GA (Metropolitan Statistical Area)",4378964
-2001-01-01,40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",94822530
-2002-01-01,40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",98220936
-2003-01-01,40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",103065801
-2004-01-01,40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",106782560
-2005-01-01,40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",112060049
-2006-01-01,40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",115207727
-2007-01-01,40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",116771986
-2008-01-01,40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",115871271
-2009-01-01,40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",110547147
 2010-01-01,40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",109083792
 2011-01-01,40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",111608920
 2012-01-01,40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",112927196
@@ -6899,6 +6890,15 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",147352494
 2022-01-01,40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",150430279
 2023-01-01,40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",153782657
+2001-01-01,40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",94822530
+2002-01-01,40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",98220936
+2003-01-01,40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",103065801
+2004-01-01,40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",106782560
+2005-01-01,40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",112060049
+2006-01-01,40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",115207727
+2007-01-01,40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",116771986
+2008-01-01,40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",115871271
+2009-01-01,40900,"Sacramento-Roseville-Folsom, CA (Metropolitan Statistical Area)",110547147
 2010-01-01,40980,"Saginaw, MI (Metropolitan Statistical Area)",7933470
 2011-01-01,40980,"Saginaw, MI (Metropolitan Statistical Area)",8109769
 2012-01-01,40980,"Saginaw, MI (Metropolitan Statistical Area)",8103882
@@ -7405,6 +7405,9 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2005-01-01,42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",229109919
 2004-01-01,42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",213810257
 2003-01-01,42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",208816079
+2021-01-01,42680,"Sebastian-Vero Beach, FL (Metropolitan Statistical Area)",7804173
+2022-01-01,42680,"Sebastian-Vero Beach, FL (Metropolitan Statistical Area)",7676277
+2023-01-01,42680,"Sebastian-Vero Beach, FL (Metropolitan Statistical Area)",7908751
 2001-01-01,42680,"Sebastian-Vero Beach, FL (Metropolitan Statistical Area)",4281416
 2002-01-01,42680,"Sebastian-Vero Beach, FL (Metropolitan Statistical Area)",4580695
 2003-01-01,42680,"Sebastian-Vero Beach, FL (Metropolitan Statistical Area)",4904097
@@ -7425,9 +7428,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2018-01-01,42680,"Sebastian-Vero Beach, FL (Metropolitan Statistical Area)",6668941
 2019-01-01,42680,"Sebastian-Vero Beach, FL (Metropolitan Statistical Area)",6896895
 2020-01-01,42680,"Sebastian-Vero Beach, FL (Metropolitan Statistical Area)",6962272
-2021-01-01,42680,"Sebastian-Vero Beach, FL (Metropolitan Statistical Area)",7804173
-2022-01-01,42680,"Sebastian-Vero Beach, FL (Metropolitan Statistical Area)",7676277
-2023-01-01,42680,"Sebastian-Vero Beach, FL (Metropolitan Statistical Area)",7908751
 2001-01-01,42700,"Sebring-Avon Park, FL (Metropolitan Statistical Area)",1954935
 2002-01-01,42700,"Sebring-Avon Park, FL (Metropolitan Statistical Area)",2110005
 2003-01-01,42700,"Sebring-Avon Park, FL (Metropolitan Statistical Area)",2182828
@@ -7865,7 +7865,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,45060,"Syracuse, NY (Metropolitan Statistical Area)",41105660
 2022-01-01,45060,"Syracuse, NY (Metropolitan Statistical Area)",40897756
 2023-01-01,45060,"Syracuse, NY (Metropolitan Statistical Area)",41210363
-2023-01-01,45220,"Tallahassee, FL (Metropolitan Statistical Area)",20112691
 2001-01-01,45220,"Tallahassee, FL (Metropolitan Statistical Area)",15025403
 2002-01-01,45220,"Tallahassee, FL (Metropolitan Statistical Area)",15431294
 2003-01-01,45220,"Tallahassee, FL (Metropolitan Statistical Area)",15763414
@@ -7888,6 +7887,7 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2020-01-01,45220,"Tallahassee, FL (Metropolitan Statistical Area)",17263617
 2021-01-01,45220,"Tallahassee, FL (Metropolitan Statistical Area)",18398100
 2022-01-01,45220,"Tallahassee, FL (Metropolitan Statistical Area)",19334826
+2023-01-01,45220,"Tallahassee, FL (Metropolitan Statistical Area)",20112691
 2001-01-01,45300,"Tampa-St. Petersburg-Clearwater, FL (Metropolitan Statistical Area)",107822837
 2002-01-01,45300,"Tampa-St. Petersburg-Clearwater, FL (Metropolitan Statistical Area)",112664671
 2003-01-01,45300,"Tampa-St. Petersburg-Clearwater, FL (Metropolitan Statistical Area)",118261145
@@ -8532,15 +8532,6 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,48260,"Weirton-Steubenville, WV-OH (Metropolitan Statistical Area)",5891084
 2022-01-01,48260,"Weirton-Steubenville, WV-OH (Metropolitan Statistical Area)",5487827
 2023-01-01,48260,"Weirton-Steubenville, WV-OH (Metropolitan Statistical Area)",6041066
-2001-01-01,48300,"Wenatchee, WA (Metropolitan Statistical Area)",4202809
-2002-01-01,48300,"Wenatchee, WA (Metropolitan Statistical Area)",4639642
-2003-01-01,48300,"Wenatchee, WA (Metropolitan Statistical Area)",4620858
-2004-01-01,48300,"Wenatchee, WA (Metropolitan Statistical Area)",4623515
-2005-01-01,48300,"Wenatchee, WA (Metropolitan Statistical Area)",4352467
-2006-01-01,48300,"Wenatchee, WA (Metropolitan Statistical Area)",4816100
-2007-01-01,48300,"Wenatchee, WA (Metropolitan Statistical Area)",4847064
-2008-01-01,48300,"Wenatchee, WA (Metropolitan Statistical Area)",4791912
-2009-01-01,48300,"Wenatchee, WA (Metropolitan Statistical Area)",4874788
 2010-01-01,48300,"Wenatchee, WA (Metropolitan Statistical Area)",5106787
 2011-01-01,48300,"Wenatchee, WA (Metropolitan Statistical Area)",5664284
 2012-01-01,48300,"Wenatchee, WA (Metropolitan Statistical Area)",5767890
@@ -8555,6 +8546,15 @@ period_date,cbsa_code,cbsa_title,gdp_millions
 2021-01-01,48300,"Wenatchee, WA (Metropolitan Statistical Area)",6756339
 2022-01-01,48300,"Wenatchee, WA (Metropolitan Statistical Area)",7090522
 2023-01-01,48300,"Wenatchee, WA (Metropolitan Statistical Area)",7383005
+2001-01-01,48300,"Wenatchee, WA (Metropolitan Statistical Area)",4202809
+2002-01-01,48300,"Wenatchee, WA (Metropolitan Statistical Area)",4639642
+2003-01-01,48300,"Wenatchee, WA (Metropolitan Statistical Area)",4620858
+2004-01-01,48300,"Wenatchee, WA (Metropolitan Statistical Area)",4623515
+2005-01-01,48300,"Wenatchee, WA (Metropolitan Statistical Area)",4352467
+2006-01-01,48300,"Wenatchee, WA (Metropolitan Statistical Area)",4816100
+2007-01-01,48300,"Wenatchee, WA (Metropolitan Statistical Area)",4847064
+2008-01-01,48300,"Wenatchee, WA (Metropolitan Statistical Area)",4791912
+2009-01-01,48300,"Wenatchee, WA (Metropolitan Statistical Area)",4874788
 2009-01-01,48540,"Wheeling, WV-OH (Metropolitan Statistical Area)",6047692
 2010-01-01,48540,"Wheeling, WV-OH (Metropolitan Statistical Area)",6106015
 2011-01-01,48540,"Wheeling, WV-OH (Metropolitan Statistical Area)",6144944
